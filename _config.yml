@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Julian Wang"
-  avatar           : /images/JiuyuanWang.jpg
+  avatar           : "JiuyuanWang.jpg"
   bio              : "Personal Website"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Chicago, IL"
