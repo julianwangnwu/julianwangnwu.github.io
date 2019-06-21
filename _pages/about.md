@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I am Julian. I study the Earth's carbon cycle. From the atmosphere to the ocean, I quantify how the carbon cycle modulates the Earth system. I write, code, and build models.
+Hi, there, I am Julian. 
+
+I study the Earth's carbon cycle. From the atmosphere to the ocean, I quantify how the carbon cycle modulates the Earth system. 
+
+I **write**, **code**, and **build models**.
 
 A data-driven personal website
 ======
