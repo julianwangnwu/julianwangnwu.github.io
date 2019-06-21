@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I study the Earth's carbon cycle. From the atmosphere to the ocean, I quantify how the carbon cycle modulates the Earth system. 
+From the atmosphere to the ocean, I quantify how the carbon cycle modulates the Earth system. 
 ### I *code*, *write*, and *build models*.
 
 
