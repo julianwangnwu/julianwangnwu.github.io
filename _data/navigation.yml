@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Technical Articles"
+  url: /year-archive/
+   
   - title: "Publications"
     url: /publications/
 
@@ -11,10 +14,7 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
-  - title: "Technical Articles"
-    url: /year-archive/
-    
+         
   - title: "CV"
     url: /cv/
     
