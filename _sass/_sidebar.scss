@@ -72,9 +72,10 @@
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 45px;
+  width: 40px;
+  height: 40px;
   // set width only, for non-square avatars
-  // height: 36px;
+  // 
 
   @include breakpoint($large) {
     display: block;
@@ -233,5 +234,31 @@
     &:hover {
       text-decoration: underline;
     }
+  }
+}
+/*
+   Wide Pages
+   ========================================================================== */
+
+.wide .sidebar__right {
+  margin-bottom: 1em;
+
+  @include breakpoint($large) {
+    position: initial;
+    top: initial;
+    right: initial;
+    width: initial;
+    margin-right: initial;
+    padding-left: initial;
+    z-index: initial;
+
+    &.sticky {
+      float: none;
+    }
+  }
+
+  @include breakpoint($x-large) {
+    width: initial;
+    margin-right: initial;
   }
 }
