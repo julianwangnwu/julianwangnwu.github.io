@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Technical Articles"
-  url: /year-archive/
+    url: /year-archive/
    
   - title: "Publications"
     url: /publications/
