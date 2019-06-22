@@ -1,13 +1,15 @@
 ---
-title: 'Decision trees from scratch'
+title: "Decision trees from scratch"
 date: 2019-03-20
-excerpt: "Explore the decision tree and its evaluation.“
 permalink: /posts/2019/03/decision-trees/
 tags:
   - adavanced
   - machine learning
   - python
 ---
+
+_An article explores decision trees and its evaluation._
+
 
 ## Decision Tree Learning Algorithm
 Objective: find a shorter tree that is as much consistent with the training examples as possible.
