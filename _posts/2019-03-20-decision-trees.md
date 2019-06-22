@@ -1,6 +1,7 @@
 ---
 title: 'Decision trees from scratch'
 date: 2019-03-20
+excerpt: "Explore the decision tree and its evaluation“
 permalink: /posts/2019/03/decision-trees/
 tags:
   - adavanced
