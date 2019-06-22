@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-From the atmosphere to the ocean, I quantify how the carbon cycle modulates the Earth system. 
 ### I *code*, *write*, and *build models*.
 
 
-=====================================================================================
+updates
+------
 
 New analysis on [neo4j data import](https://julianwangnwu.github.io/posts/2019/06/import-neo4j/)!
 
