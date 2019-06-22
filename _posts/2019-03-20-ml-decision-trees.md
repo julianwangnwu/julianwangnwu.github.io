@@ -60,6 +60,6 @@ In statistical analysis of binary classification, the F1 score (also F-score or 
 
 ![eq3](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/eq3.png)
 
-![CMfigure](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/ConfusionMatrix.png)
+![CMfigure](https://i2.wp.com/ethos.itu.dk/wp-content/uploads/sites/14/2018/04/geigerblogtalk.png?resize=602%2C602&ssl=1)
 Figure 2. Confusion matrix with all performance measurements from [Wikipedia page](https://en.wikipedia.org/wiki/Confusion_matrix)
 
