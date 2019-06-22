@@ -1,5 +1,5 @@
 ---
-title: "Decision trees from scratch"
+title: "ML: Decision trees from scratch"
 date: 2019-03-20
 permalink: /posts/2019/03/decision-trees/
 tags:
@@ -8,7 +8,7 @@ tags:
   - python
 ---
 
-_An article explores decision trees and its evaluation._
+_Machine Learning: An article explores decision trees and its evaluation._
 
 
 ## Decision Tree Learning Algorithm
