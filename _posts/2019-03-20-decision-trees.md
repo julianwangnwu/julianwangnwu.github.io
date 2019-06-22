@@ -43,20 +43,20 @@ Figure 1. Confusion matrix
 
 Accuracy is a description of systematic errors, a measure of statistical bias; as these cause a difference between a result and a "true" value, ISO calls this trueness.
 
-![eq0](https://github.com/julianwangnwu/Machine-Learning/blob/master/Decision%20Trees/eq0.png)
+![eq0](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/eq0.png)
 
 precision (also called positive predictive value) is the fraction of relevant instances among the retrieved instances.
 
-![eq1](https://github.com/julianwangnwu/Machine-Learning/blob/master/Decision%20Trees/eq1.png)
+![eq1](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/eq1.png)
 
 recall (also known as sensitivity) is the fraction of relevant instances that have been retrieved over the total amount of relevant instances.
 
-![eq2](https://github.com/julianwangnwu/Machine-Learning/blob/master/Decision%20Trees/eq2.png)
+![eq2](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/eq2.png)
 
 In statistical analysis of binary classification, the F1 score (also F-score or F-measure) is a measure of a test's accuracy. It considers both the precision p and the recall r of the test to compute the score: p is the number of correct positive results divided by the number of all positive results returned by the classifier, and r is the number of correct positive results divided by the number of all relevant samples (all samples that should have been identified as positive). The F1 score is the harmonic average of the precision and recall, where an F1 score reaches its best value at 1 (perfect precision and recall) and worst at 0.
 
-![eq3](https://github.com/julianwangnwu/Machine-Learning/blob/master/Decision%20Trees/eq3.png)
+![eq3](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/eq3.png)
 
-![CMfigure](https://github.com/julianwangnwu/Machine-Learning/blob/master/Decision%20Trees/ConfusionMatrix.png)
+![CMfigure](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/ConfusionMatrix.png)
 Figure 2. Confusion matrix with all performance measurements from [Wikipedia page](https://en.wikipedia.org/wiki/Confusion_matrix)
 
