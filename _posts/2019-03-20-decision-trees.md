@@ -12,7 +12,7 @@ tags:
 Objective: find a shorter tree that is as much consistent with the training examples as possible.
 
 ID3 algorithm: (recursively) choose "most significant" attribute as root of a (sub)tree.
-```js
+```
 function DTL(examples, attributes, default) returens a decision tree
   if examples is empty 
      return default
@@ -37,7 +37,7 @@ It is a special kind of contingency table, with two dimensions ("actual" and "pr
 two rows and two columns that reports the number of false positives, false negatives, true positives, and true negatives. 
 
 
-![CMfigure](https://github.com/julianwangnwu/Machine-Learning/blob/master/Decision%20Trees/confusionmatrix2D.png)
+![CMfigure](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/confusionmatrix2D.png)
 
 Figure 1. Confusion matrix
 
