@@ -40,33 +40,52 @@ It is a special kind of contingency table, with two dimensions ("actual" and "pr
 two rows and two columns that reports the number of false positives, false negatives, true positives, and true negatives. 
 
 
-![CMfigure](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/confusionmatrix2D.png)
+<div class="wp-caption aligncenter" style="width: 400px; border: 0;">
+  <p>
+    <img class="aligncenter" src="/images/confusionmatrix2D.png" width="400" height="400" />
+  </p>
+  <p class="wp-caption-text">
+    <em>Figure 1. 2D Confusion Matrix</em>
+  </p>
+</div>
 
 Figure 1. Confusion matrix
 
 Accuracy is a description of systematic errors, a measure of statistical bias; as these cause a difference between a result and a "true" value, ISO calls this trueness.
 
-![eq0](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/eq0.png)
+<div class="wp-caption aligncenter" style="width: 100px; border: 0;">
+  <p>
+    <img class="aligncenter" src="/images/eq0.png" width="100" height="50" />
+  </p>
+</div>
 
 precision (also called positive predictive value) is the fraction of relevant instances among the retrieved instances.
 
-![eq1](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/eq1.png)
-
+<div class="wp-caption aligncenter" style="width: 100px; border: 0;">
+  <p>
+    <img class="aligncenter" src="/images/eq1.png" width="100" height="50" />
+  </p>
+</div>
 recall (also known as sensitivity) is the fraction of relevant instances that have been retrieved over the total amount of relevant instances.
 
-![eq2](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/eq2.png)
+<div class="wp-caption aligncenter" style="width: 100px; border: 0;">
+  <p>
+    <img class="aligncenter" src="/images/eq2.png" width="100" height="50" />
+  </p>
+</div>
+
 
 In statistical analysis of binary classification, the F1 score (also F-score or F-measure) is a measure of a test's accuracy. It considers both the precision p and the recall r of the test to compute the score: p is the number of correct positive results divided by the number of all positive results returned by the classifier, and r is the number of correct positive results divided by the number of all relevant samples (all samples that should have been identified as positive). The F1 score is the harmonic average of the precision and recall, where an F1 score reaches its best value at 1 (perfect precision and recall) and worst at 0.
 
 ![eq3](https://github.com/julianwangnwu/julianwangnwu.github.io/blob/master/images/eq3.png)
 
-<div class="wp-caption aligncenter" style="width: 500px; border: 0;">
+<div class="wp-caption aligncenter" style="width: 750px; border: 0;">
   <p>
-    <img class="aligncenter" src="/images/ConfusionMatrix.png" width="500" height="350" />
+    <img class="aligncenter" src="/images/ConfusionMatrix.png" width="750" height="500" />
   </p>
   
   <p class="wp-caption-text">
-    <em>Figure 2. Confusion matrix with all performance measurements from Wikipedia page <a href="https://en.wikipedia.org/wiki/Confusion_matrix"></a></em>
+    <em>Figure 2. Confusion matrix with all performance measurements from <a href="https://en.wikipedia.org/wiki/Confusion_matrix">Wikipedia page</a></em>
   </p>
 </div>
 
