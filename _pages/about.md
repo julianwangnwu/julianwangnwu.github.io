@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-updates
+what's new?
 ------
 
 New analysis on [neo4j data import](https://julianwangnwu.github.io/posts/2019/06/import-neo4j/)!
