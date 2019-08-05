@@ -17,6 +17,7 @@ Education
 Projects
 ======
 * Deterministic Security Log Analysis and Visualization System
+
 *(Instrumentation-free user-centric attack investigation system with high level semantics by JAVA)*
   * Helped to design system architecture and algorithms to extract information from system logs
   * Designed data process application, leveraged Longest Common Subsequence (**LCS**) algorithm to extract common patterns from massive log (>100Gb), and generate ready-to-use JSON file
@@ -25,8 +26,8 @@ Projects
   * Built graph databases (**neo4j**) to store the graphical dependency of system events and optimized the data import time by >100 times
 
 * Collaborative Online Editor for Programming Challenges
-*(Code editor that supports multi-users to collaborate on algorithms and designs using Angular)*
 
+*(Code editor that supports multi-users to collaborate on algorithms and designs using Angular)*
   * Developed web application with Angular framework and Node.js to handle HTTP requests 
   * Built NoSQL database (**MongoDB**) to store the programming challenges and edited code scripts
   * Implemented collaborative feature with **Socket.io** for code synchronization and **Redis** for fast access
@@ -35,6 +36,7 @@ Projects
 
 
 * Spring Based Web Application: Real-time Earthquake Visualization
+
 *(Real-time earthquake monitoring system using Java Spring framework)*
   * Designed and developed a full-stack web application with **Spring MVC** framework to monitor and visualize real-time USGS global earthquake distribution
   * Built data ingestion micro-service with **JSON Schema** to validate and parse raw JSON real-time data from USGS datacenter
@@ -43,6 +45,7 @@ Projects
   * Implemented asynchronous system using producer-consumer pattern with RabbitMQ as message broker to decouple multiple requests simultaneously
 
 * Production Target Area Forecast, EQT Corporation
+
 *(Applied scientist Intern – Pattern recognition and machine learning using R)*
   * Implemented principle component analysis, multiclass classification, and regression in R to analyze multi-dimensional Giga-bytes-data (1000+ wells) for shale-gas production
   * Optimized the multivariable statistical model for exploration area prediction, reduced error by 72%
@@ -51,7 +54,7 @@ Projects
 
 Work experience
 ======
-* Northwwestern University 2015- Now: Research Assistant
+* Northwestern University 2015- Now: Research Assistant
 * EQT Summer 2014: Applied scientist intern
 
 Skills
