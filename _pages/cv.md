@@ -24,6 +24,16 @@ Projects
   * Implemented Google Catapult Trace-View to visualize recorded events and their semantics
   * Built graph databases (**neo4j**) to store the graphical dependency of system events and optimized the data import time by >100 times
 
+* Collaborative Online Editor for Programming Challenges
+*(Code editor that supports multi-users to collaborate on algorithms and designs using Angular)*
+
+  * Developed web application with Angular framework and Node.js to handle HTTP requests 
+  * Built NoSQL database (**MongoDB**) to store the programming challenges and edited code scripts
+  * Implemented collaborative feature with **Socket.io** for code synchronization and **Redis** for fast access
+  * Deployed Python backend server in **Docker** container to execute and validate code finished by users
+  * Optimized and refactored the code execution throughput with load-balancer (**Ngix**)
+
+
 * Spring Based Web Application: Real-time Earthquake Visualization
 *(Real-time earthquake monitoring system using Java Spring framework)*
   * Designed and developed a full-stack web application with **Spring MVC** framework to monitor and visualize real-time USGS global earthquake distribution
@@ -59,7 +69,8 @@ Awards and leadership
 ======
 * President of Chinese Student and Scholar Association at Northwestern (2016-2017)
 * Medill Science Writing Fellow at Northwestern (2018)
-* Northwestern Fellowship (2015)
+* Northwestern Graduate Fellowship (2015)
+* GSA Research Fellowship (2014)
 * Imperial Barrel Award (2014)
 * Cheaspeake Award (2013)
 * Shell Energy Research Grant (2013)
