@@ -1,0 +1,15 @@
+---
+title: "Coupled δ44/40Ca, δ88/86Sr, and 87Sr/86Sr geochemistry across the end-Permian mass extinction event"
+collection: publications
+permalink: /publication/2019-01-01-paper-Ca-Sr
+excerpt: 'This paper reports coupled δ44/40Ca, δ88/86Sr, and 87Sr/86Sr records spanning the Permian-Triassic boundary.'
+date: 2019-01-01
+venue: 'Geochimica et Cosmochimica Acta'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0016703719304594?via%3Dihub'
+citation: 'Wang,J., Jacobson, A.D., Zhang, H., Ramezani, J., Sageman, B.B., Hurtgen, M.T.,Bowring, S.A. and Shen, S.Z., 2019. Coupled δ44/40Ca, δ88/86Sr,and 87Sr/86Sr geochemistry across the end-Permian massextinction event. Geochimica et Cosmochimica Acta, 262, pp.143-165.'
+---
+We report high-resolution, high-precision δ44/40Ca, δ88/86Sr, and 87Sr/86Sr records spanning the Permian-Triassic boundary (PTB) from the Meishan and Dajiang carbonate successions in south China. The goal of the study was to understand the behavior of Ca and Sr isotopes during a time period in Earth history characterized by severe biological and environmental perturbations, including a major mass extinction, flood basalt volcanism, ocean acidification, and sea level fluctuations. Dajiang displays negative δ44/40Ca and δ88/86Sr excursions and invariant 87Sr/86Sr ratios in the <60 kyr timeframe between the main extinction horizon and the PTB. The Meishan δ44/40Ca and δ88/86Sr records are generally shifted to higher values and display both synchronous and asynchronous trends relative to Dajiang. In addition, 87Sr/86Sr ratios at Meishan are significantly elevated and do not define a clear secular pattern. We reconcile diverse conceptual models for the dataset with the aid of supporting elemental and isotope measurements (e.g., Sr/Ca, δ13C, and δ18O), as well as sequential leaching experiments. The combined body of evidence indicates that Dajiang sediments experienced recrystallization and neomorphism under rock-buffered conditions that preserved primary signals. In contrast, the Meishan records display influences from both primary and secondary processes, including local differences in fractionation, fluid-buffered early marine diagenesis, and late stage diagenetic overprinting. The three isotopic records for Dajiang, and to some extent, the δ44/40Ca and δ88/86Sr records for Meishan, preserve information about the geochemistry of end-Permian seawater. We find that enhanced weathering of shelf carbonates during sea level fall provides the best explanation for rapidly decreasing seawater δ44/40Ca and δ88/86Sr values without affecting 87Sr/86Sr ratios.
+
+[Download paper here](https://www.sciencedirect.com/science/article/pii/S0016703719304594?via%3Dihub)
+
+Recommended citation: Wang,J., Jacobson, A.D., Zhang, H., Ramezani, J., Sageman, B.B., Hurtgen, M.T.,Bowring, S.A. and Shen, S.Z., 2019. Coupled δ44/40Ca, δ88/86Sr,and 87Sr/86Sr geochemistry across the end-Permian massextinction event. Geochimica et Cosmochimica Acta, 262, pp.143-165.
