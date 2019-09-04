@@ -3,7 +3,6 @@ title: "Coupled δ44/40Ca, δ88/86Sr, and 87Sr/86Sr geochemistry across the end-
 collection: publications
 permalink: /publication/2019-01-01-paper-Ca-Sr
 excerpt: 'This paper reports coupled δ44/40Ca, δ88/86Sr, and 87Sr/86Sr records spanning the Permian-Triassic boundary.'
-date: 2019-01-01
 venue: 'Geochimica et Cosmochimica Acta'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0016703719304594?via%3Dihub'
 citation: 'Wang,J., Jacobson, A.D., Zhang, H., Ramezani, J., Sageman, B.B., Hurtgen, M.T.,Bowring, S.A. and Shen, S.Z., 2019. Coupled δ44/40Ca, δ88/86Sr,and 87Sr/86Sr geochemistry across the end-Permian massextinction event. Geochimica et Cosmochimica Acta, 262, pp.143-165.'
