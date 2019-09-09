@@ -2,7 +2,9 @@
 title: "Teaching Assistant at Northwestern"
 collection: teaching
 type: "Courses"
-permalink: /teaching/2019-spring-teaching
+permalink: /teaching/2019-06-01-spring-teaching
+excerpt: "Read testimonials from students.
+ <br/><img src='/images/TA-test.png'>"
 venue: "Northwestern University"
 date: 2019-06-01
 location: "Evanston, USA"
