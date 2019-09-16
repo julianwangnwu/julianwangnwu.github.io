@@ -11,6 +11,12 @@ redirect_from:
 
 <p style="text-align:center">I code, write, and build models</p>
 
+<p style="font-family:consolas;font-size:28px;text-align:center">
+         <br>
+         I code, write, and build models
+         <br>
+      </p>
+
 
 what's new?
 ------
