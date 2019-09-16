@@ -1,5 +1,5 @@
 ---
-title: "Python instructor in Quantitative Approaches in Earth Sciences"
+title: "Teaching Python at the workshop: Quantitative Approaches in Earth Sciences"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2017-08-01-summer-python
