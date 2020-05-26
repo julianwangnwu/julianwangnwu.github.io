@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Hi there, I am Jiuyuan (Julian)."
+title: "About Jiuyuan (Julian)."
 excerpt: "About me"
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
-<p style="font-family:consolas;font-size:22px;text-align:center">
+<p style="font-family:PT Serif;font-size:22px;text-align:center">
          <br>
-         I analyze rocks, build models, and write stories about them.
+         In one sentence: I analyze rocks, build models, and write stories about them.
          <br>
 </p>
 
