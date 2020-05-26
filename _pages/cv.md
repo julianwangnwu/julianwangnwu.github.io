@@ -11,10 +11,15 @@ redirect_from:
 
 Education
 ======
-* M.S., Penn State University, 2015
 * Ph.D, Northwestern University, 2020 (expected)
+* M.S., Penn State University, 2015
 
-Projects
+Work experience
+======
+* Northwestern University 2015- Now: Research Assistant
+* EQT Summer 2014: Applied scientist intern
+
+Programming Projects
 ======
 * Deterministic Security Log Analysis and Visualization System
 *(Instrumentation-free user-centric attack investigation system with high level semantics by JAVA)*
@@ -23,15 +28,6 @@ Projects
   * Developed a website for users to upload collected logs (**Java Spring MVC**) and to visualize those logs and their semantics interactively (**Google Catapult Trace-View JavaScript frontend**)
   * Implemented Google Catapult Trace-View to visualize recorded events and their semantics
   * Built graph databases (**neo4j**) to store the graphical dependency of system events and optimized the data import time by >100 times
-
-* Collaborative Online Editor for Programming Challenges
-*(Code editor that supports multi-users to collaborate on algorithms and designs using Angular)*
-  * Developed web application with Angular framework and Node.js to handle HTTP requests 
-  * Built NoSQL database (**MongoDB**) to store the programming challenges and edited code scripts
-  * Implemented collaborative feature with **Socket.io** for code synchronization and **Redis** for fast access
-  * Deployed Python backend server in **Docker** container to execute and validate code finished by users
-  * Optimized and refactored the code execution throughput with load-balancer (**Ngix**)
-
 
 * Spring Based Web Application: Real-time Earthquake Visualization
 *(Real-time earthquake monitoring system using Java Spring framework)*
@@ -48,21 +44,17 @@ Projects
   * Trained supervised machine learning models including Logistic Regression, Random Forest and KNearest Neighbors, and applied regularization with measured parameters to overcome overfitting
   * Delivered 6 maps for production decision. Presented directly to the CEO and management team
 
-Work experience
-======
-* Northwestern University 2015- Now: Research Assistant
-* EQT Summer 2014: Applied scientist intern
 
 Skills
 ======
-* Programming Languages: 
+* Programming Languages:
   * Object-oriented design using Java
-  * Web development using HTML, CSS, JavaScript 
-  * Machine Learning and statistical analysis using R, Python 
-* Databases: 
+  * Web development using HTML, CSS, JavaScript
+  * Machine Learning and statistical analysis using R, Python
+* Databases:
   * Relational databases (MySQL)
   * Non-relational database (MongoDB)
-  * Graph databases (neo4j) 
+  * Graph databases (neo4j)
 
 Awards and leadership
 ======
