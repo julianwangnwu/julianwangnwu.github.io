@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi there, I am Julian. "
+title: "Hi there, I am Julian. I am a geoscientist."
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p style="font-family:consolas;font-size:28px;text-align:center">
          <br>
-         I code, write, and build models
+         I analyze rocks, build models, and write stories about them.
          <br>
       </p>
 
