@@ -83,14 +83,14 @@ author:
   name             : "Julian Wang"
   avatar           : "JiuyuanWang3.jpg"
   bio              : "Personal Website"
-  bio              : " Coder | Data-driven scientist | Bilingual storyteller"
+  bio              : " Geologist | Data-driven scientist | Bilingual storyteller"
   location         : "Chicago, IL"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "julianwangnwu@gmail.com"
+  email            : "jwang@earth.northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "julianwangnwu.com"
+  uri              : "julianwangnwu.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jiuyuan-wang-10402761"
+  linkedin         : #"jiuyuan-wang-10402761"
   orcid            :
   pinterest        :
   soundcloud       :
