@@ -17,8 +17,8 @@ Education
 Work experience
 ======
 * Northwestern University (2015- Now): Research and Teaching Assistant
-* EQT (2014): Petrophysicist
-* SINOPEC (2010/2011/2012): Intern Geologist
+* Penn State University (2012- 2014): Research and Teaching Assistant
+* Industry: EQT(2014-2015)/SINOPEC(2010/2011/2012)
 
 Skills
 ======
@@ -52,6 +52,8 @@ Linzmeier, B.J., Jacobson, A.D., Sageman, B.B., Hurtgen, M.T., Ankney, M.E., Pet
 Cui, Y, Zhang, F., **Wang, J.**, Shen S. Z., Marine anoxia and ocean acidification during the end-Permian extinction: an integrated view from δ238U and δ44/40Ca proxies and Earth system modeling. Environmental Change and Large Igneous Province: The Deadly Kiss of LIPs, AGU Book 2020
 
 Dong, Y., Chen, H., **Wang, J.**, Hou, M., Zhu, P., Zhang, C., Cui. Y., 2020, Thermal convection dolomitization induced by the Emeishan Large Igneous Province. Marine and Petroleum Geology.  https://doi.org/10.1016/j.marpetgeo.2020.104308
+
+Zhu, P., Dong, Y., Chen, M., Li, Z., Han, B., **Wang, J.**, and Cui, Y., 2020, Journal of Natural Gas Science and Engineering Quantitative evaluation of pore structure from mineralogical and diagenetic information extracted from well logs in tight sandstone reservoirs: Journal of Natural Gas Science and Engineering, v. 80, p. 103376, doi:10.1016/j.jngse.2020.103376.
 
 
 Awards and leadership
