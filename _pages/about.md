@@ -21,23 +21,17 @@ redirect_from:
     <b> What's new? </b>
 </p>
 <p style="font-family:PT Serif;font-size:22px;text-align:left">
-    <b>2020/05/29</b> Want to better extract pore information from well logs? Check out our new evaluations on <a href="https://doi.org/10.1016/j.jngse.2020.103376" style="color: #3BB9FF">how mineralogy and diagenesis affect pore structures based on well-log information</a>.
-</p>
-<p style="font-family:PT Serif;font-size:22px;text-align:left">
-    <b>2020/03/21</b> LIP eruption could produce dolomite? Check out new paper about <a href="https://doi.org/10.1016/j.marpetgeo.2020.104308" style="color: #3BB9FF">dolomitization induced by the Emeishan Large Igneous Province</a>.
-</p>
-<p style="font-family:PT Serif;font-size:22px;text-align:left">
-    <b>2020/01/09</b> Impact vs Volcanism? Check out new paper about <a href="https://doi.org/10.1130/G46431.1" style="color: #3BB9FF">changes of carbonate chemistry during end-Cretaceous mass extinction!</a>.
-</p>
-<p style="font-family:PT Serif;font-size:22px;text-align:left">
-    <b>2019/12/30</b> My finding on "trapped microorganisms within fluid-inclusions" got accepted. Stay tuned for the paper!
-</p>    
-<p style="font-family:PT Serif;font-size:22px;text-align:left">
-    <b>2019/10/29</b> Import data faster into your graphic database! Check out my new analysis on <a href="https://julianwangnwu.github.io/posts/2019/06/import-neo4j/" style="color: #3BB9FF"><i>neo4j</i> data import</a>.
-</p>
-<p style="font-family:PT Serif;font-size:22px;text-align:left">
-    <b>2019/09/20</b> What happened in <i>Calcium cycle</i> during the biggest mass extinction? Check out new paper about <a href="https://doi.org/10.1016/j.gca.2019.07.035" style="color: #3BB9FF">Ca and Sr cycle during Permian-Triassic mass extinction!</a>.
-</p>
-<p style="font-family:PT Serif;font-size:22px;text-align:left">
-    Don't forget to check out my tutorials on <b>machine learning</b> and <b>data structures</b> under <a href="https://julianwangnwu.github.io/year-archive/" style="color: #3BB9FF">Technical Articles</a>!
+      <b>2020/05/29</b> Want to better extract pore information from well logs? Check out our new evaluations on <a href="https://doi.org/10.1016/j.jngse.2020.103376" style="color: #3BB9FF">how mineralogy and diagenesis affect pore structures based on well-log information</a>.
+  <br>
+      <b>2020/03/21</b> LIP eruption could produce dolomite? Check out new paper about <a href="https://doi.org/10.1016/j.marpetgeo.2020.104308" style="color: #3BB9FF">dolomitization induced by the Emeishan Large Igneous Province</a>.
+  <br>
+      <b>2020/01/09</b> Impact vs Volcanism? Check out new paper about <a href="https://doi.org/10.1130/G46431.1" style="color: #3BB9FF">changes of carbonate chemistry during end-Cretaceous mass extinction!</a>.
+  <br>
+      <b>2019/12/30</b> My finding on "trapped microorganisms within fluid-inclusions" got accepted. Stay tuned for the paper!
+  <br>
+      <b>2019/10/29</b> Import data faster into your graphic database! Check out my new analysis on <a href="https://julianwangnwu.github.io/posts/2019/06/import-neo4j/" style="color: #3BB9FF"><i>neo4j</i> data import</a>.
+  <br>
+      <b>2019/09/20</b> What happened in <i>Calcium cycle</i> during the biggest mass extinction? Check out new paper about <a href="https://doi.org/10.1016/j.gca.2019.07.035" style="color: #3BB9FF">Ca and Sr cycle during Permian-Triassic mass extinction!</a>.
+  <br>
+      Don't forget to check out my tutorials on <b>machine learning</b> and <b>data structures</b> under <a href="https://julianwangnwu.github.io/year-archive/" style="color: #3BB9FF">Technical Articles</a>!
 </p>
