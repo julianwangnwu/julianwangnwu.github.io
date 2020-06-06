@@ -7,23 +7,23 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<p style=""font-family:'Roboto', sans-serif; font-size:20px;text-align:center">
+<p style="font-family:'Roboto', sans-serif; font-size:20px;text-align:center">
          <i>“I analyze rocks, build models, and write stories about them.” </i>
 </p>
 
-<p style=""font-family:'Roboto', sans-serif; font-size:20px;text-align:left">
+<p style="font-family:'Roboto', sans-serif; font-size:20px;text-align:left">
          I am currently a Ph.D. candidate at Northwestern University, working with <a href="https://www.earth.northwestern.edu/our-people/faculty/sageman-brad.html" style="color: #3BB9FF">Brad Sageman</a>, <a href="https://www.earth.northwestern.edu/our-people/faculty/jacobson-andrew.html" style="color: #3BB9FF">Andy Jacobson</a>, and <a href="https://www.earth.northwestern.edu/our-people/faculty/hurtgen-matthew.html" style="color: #3BB9FF">Matt Hurtgen</a>. My research has been broadly in the areas of biogeochemistry and sedimentary geochemistry, with particular focus on biotic turnovers, weathering processes, and stable isotope applications to palaeoclimatology and paleoceanography. I am also interested in energy sciences and education.
 </p>
 
-<p style=""font-family:'Roboto', sans-serif; font-size:20px;text-align:left">         
+<p style="font-family:'Roboto', sans-serif; font-size:20px;text-align:left">         
          I completed a M.S. degree from Penn State University, where I was advised by <a href="https://www.geosc.psu.edu/academic-faculty/arthur-michael" style="color: #3BB9FF">Mike Arthur</a>, and a B.E. degree from China University of Petroleum.
 </p>
 
-<p style=""font-family:'Roboto', sans-serif; font-size:20px;text-align:left">
+<p style="font-family:'Roboto', sans-serif; font-size:20px;text-align:left">
     <b> What's new? </b>
 </p>
 
-<p style=""font-family:'Roboto', sans-serif; font-size:20px;text-align:left">
+<p style="font-family:'Roboto', sans-serif; font-size:20px;text-align:left">
       <b>2020/05/29</b> Want to better extract pore information from well logs? Check out our new evaluations on <a href="https://doi.org/10.1016/j.jngse.2020.103376" style="color: #3BB9FF">how mineralogy and diagenesis affect pore structures based on well-log information</a>.
   <br>
       <b>2020/03/21</b> LIP eruption could produce dolomite? Check out new paper about <a href="https://doi.org/10.1016/j.marpetgeo.2020.104308" style="color: #3BB9FF">dolomitization induced by the Emeishan Large Igneous Province</a>.
