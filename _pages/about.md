@@ -19,7 +19,7 @@ redirect_from:
          I completed a M.S. degree from Penn State University, where I was advised by <a href="https://www.geosc.psu.edu/academic-faculty/arthur-michael" style="color: #3BB9FF">Mike Arthur</a>, and a B.E. degree from China University of Petroleum.
 </p>
 
-<p style="font-family:'Roboto', sans-serif; font-size:20px;text-align:left">
+<p style="font-family:'Roboto', sans-serif; font-size:22px;text-align:left">
     <b> What's new? </b>
 </p>
 
@@ -28,7 +28,7 @@ redirect_from:
   <br>
       <b>2020/03/21</b> LIP eruption could produce dolomite? Check out new paper about <a href="https://doi.org/10.1016/j.marpetgeo.2020.104308" style="color: #3BB9FF">dolomitization induced by the Emeishan Large Igneous Province</a>.
   <br>
-      <b>2020/01/09</b> Impact vs Volcanism? Check out new paper about <a href="https://doi.org/10.1130/G46431.1" style="color: #3BB9FF">changes of carbonate chemistry during end-Cretaceous mass extinction!</a>.
+      <b>2020/01/09</b> Impact vs Volcanism? Check out new paper about <a href="https://doi.org/10.1130/G46431.1" style="color: #3BB9FF">changes of carbonate chemistry during end-Cretaceous mass extinction</a>!
   <br>
       <b>2019/12/30</b> My finding on "trapped microorganisms within fluid-inclusions" got accepted. Stay tuned for the paper!
   <br>
