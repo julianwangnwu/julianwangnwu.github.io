@@ -4,8 +4,10 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 redirect_from:
-  - /publications/
+  - /publications
+
 ---
+{% include base_path %}
 
 {% if author.googlescholar %}
   You can also browse <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>. I publish under my name "Jiuyuan Wang".</u>
