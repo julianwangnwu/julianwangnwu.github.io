@@ -5,15 +5,12 @@ permalink: /publications/
 author_profile: true
 redirect_from:
   - /publications/
-  - /publications.html
 ---
 
 {% if author.googlescholar %}
   You can also browse <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>. I publish under my name "Jiuyuan Wang".</u>
 {% endif %}
 
-Publications
-======
 **Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T. *(in review)* Ca and Sr isotopes indicate volcanism-triggered biocalcification crisis during Oceanic Anoxic Event 1a.
 
 **Wang, J.**, Arthur, M. A., *(in revision)* The diagenetic origin and depositional history of the Cherry Valley Member, middle-Devonian Marcellus Formation.
