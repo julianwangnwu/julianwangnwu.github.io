@@ -87,7 +87,7 @@ author:
   location         : "Chicago, IL"
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=DTsanH4AAAAJ&hl=en&authuser=2"
   email            : "jwang@earth.northwestern.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "julianwangnwu.github.io"

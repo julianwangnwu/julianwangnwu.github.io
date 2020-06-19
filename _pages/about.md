@@ -24,6 +24,8 @@ redirect_from:
 </p>
 
 <p style="font-family:'Roboto', sans-serif; font-size:20px;text-align:left">
+      <b>2020/06/19</b> I will help to convene a session in <b>GSA2020 (Virtual)</b> with Drs. Ben Linzmeier, Adam Denny, and Huan Cui. Please consider submitting an abstract to our session:  <a href="https://community.geosociety.org/gsa2020/home" style="color: #3BB9FF">T105. Assessing the Fidelity of Geochemical Signals in Deep Time: Primary, Authigenic, and Diagenetic Signals in Proxy Data</a>.
+  <br>
       <b>2020/05/29</b> Want to better extract pore information from well logs? Check out our new evaluations on <a href="https://doi.org/10.1016/j.jngse.2020.103376" style="color: #3BB9FF">how mineralogy and diagenesis affect pore structures based on well-log information</a>.
   <br>
       <b>2020/03/21</b> LIP eruption could produce dolomite? Check out new paper about <a href="https://doi.org/10.1016/j.marpetgeo.2020.104308" style="color: #3BB9FF">dolomitization induced by the Emeishan Large Igneous Province</a>.
@@ -32,10 +34,12 @@ redirect_from:
   <br>
       <b>2019/12/30</b> My finding on "trapped microorganisms within fluid-inclusions" got accepted. Stay tuned for the paper!
   <br>
-      <b>2019/10/29</b> Import data faster into your graphic database! Check out my new analysis on <a href="https://julianwangnwu.github.io/posts/2019/06/import-neo4j/" style="color: #3BB9FF"><i>neo4j</i> data import</a>.
-  <br>
       <b>2019/09/20</b> What happened in <i>Calcium cycle</i> during the biggest mass extinction? Check out new paper about <a href="https://doi.org/10.1016/j.gca.2019.07.035" style="color: #3BB9FF">Ca and Sr cycle during Permian-Triassic mass extinction!</a>.
-  <br>
-  <br>
-      Don't forget to check out my tutorials on <b>machine learning</b> and <b>data structures</b> under <a href="https://julianwangnwu.github.io/year-archive/" style="color: #3BB9FF">Technical Articles</a>!
+
+</p>
+
+<p style="font-family:'Roboto', sans-serif; font-size:22px;text-align:left">
+    <b> Misc </b>
+    <br>
+    I am fond of technology, so I keep learning new stuffs and occasionally write <a href="https://julianwangnwu.github.io/year-archive/" style="color: #3BB9FF">notes</a> about them. I like numbers a lot, so I co-manage a mutual fund (~$10M) as a hobby since 2014. I like to travel and sometimes take photos.
 </p>
