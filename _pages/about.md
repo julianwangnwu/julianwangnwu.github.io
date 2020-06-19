@@ -38,8 +38,10 @@ redirect_from:
 
 </p>
 
-<p style="font-family:'Roboto', sans-serif; font-size:22px;text-align:left">
+<p style="font-family:'Roboto', sans-serif; font-size:20px;text-align:left">
     <b> Misc </b>
-    <br>
+</p>
+
+<p style="font-family:'Roboto', sans-serif; font-size:18px;text-align:left">
     I am fond of technology, so I keep learning new stuffs and occasionally write <a href="https://julianwangnwu.github.io/year-archive/" style="color: #3BB9FF">notes</a> about them. I like numbers a lot, so I co-manage a mutual fund (~$10M) as a hobby since 2014. I like to travel and sometimes take photos.
 </p>
