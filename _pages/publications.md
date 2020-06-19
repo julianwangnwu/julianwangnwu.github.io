@@ -5,13 +5,8 @@ permalink: /publications/
 author_profile: true
 redirect_from:
   - /publications
-
 ---
 {% include base_path %}
-
-{% if author.googlescholar %}
-  You can also browse <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>. I publish under my name "Jiuyuan Wang".</u>
-{% endif %}
 
 **Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T. *(in review)* Ca and Sr isotopes indicate volcanism-triggered biocalcification crisis during Oceanic Anoxic Event 1a.
 
