@@ -8,6 +8,8 @@ redirect_from:
 ---
 {% include base_path %}
 
+
+
 **Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T. *(in review)* Ca and Sr isotopes indicate volcanism-triggered biocalcification crisis during Oceanic Anoxic Event 1a.
 
 **Wang, J.**, Arthur, M. A., *(in revision)* The diagenetic origin and depositional history of the Cherry Valley Member, middle-Devonian Marcellus Formation.
