@@ -24,7 +24,7 @@ Work experience
 Skills
 ======
 * Analytical tools:
-  * Isotopes: IRMS (C/O/S/N), TIMS(Sr/Ca/U/Pb), MC-ICP-MS
+  * Isotopes: IRMS, TIMS, MC-ICP-MS
   * Elements: ICP-MS, ICP-OES, Coulometer
   * Imaging: SEM, TEM, Raman Spectroscopy, Neutron Scattering
 * Programming Languages:

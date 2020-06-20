@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Julian (Jiuyuan) Wang"
+title                    : "Jiuyuan (Julian) Wang"
 title_separator          : "-"
-name                     : "Julian Wang"
+name                     : "Jiuyuan Wang"
 description              : "Personal website"
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Julian Wang"
+  name             : "Jiuyuan Wang"
   avatar           : "JiuyuanWang3.jpg"
   bio              : "Personal Website"
   bio              : " Geologist | Data-driven scientist | Bilingual storyteller"

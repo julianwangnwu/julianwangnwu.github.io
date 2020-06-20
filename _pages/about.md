@@ -28,13 +28,13 @@ redirect_from:
   <br>
       <b>2020/05/29</b> Want to better extract pore information from well logs? Check out our new evaluations on how mineralogy and diagenesis affect pore structures based on well-log information. [<a href="https://doi.org/10.1016/j.jngse.2020.103376" style="color: #3BB9FF">Paper</a>]
   <br>
-      <b>2020/03/21</b> LIP eruption could produce dolomite? Check out new paper about dolomitization induced by the Emeishan Large Igneous Province[<a href="https://doi.org/10.1016/j.marpetgeo.2020.104308" style="color: #3BB9FF">Paper</a>]
+      <b>2020/03/21</b> LIP eruption could produce dolomite? Check out new paper about dolomitization induced by the Emeishan Large Igneous Province. [<a href="https://doi.org/10.1016/j.marpetgeo.2020.104308" style="color: #3BB9FF">Paper</a>]
   <br>
-      <b>2020/01/09</b> Impact vs Volcanism? Check out new paper about changes of carbonate chemistry during end-Cretaceous mass extinction [<a href="https://doi.org/10.1130/G46431.1" style="color: #3BB9FF">Paper</a>]
+      <b>2020/01/09</b> Impact vs Volcanism? Check out new paper about changes of carbonate chemistry during end-Cretaceous mass extinction. [<a href="https://doi.org/10.1130/G46431.1" style="color: #3BB9FF">Paper</a>]
   <br>
       <b>2019/12/30</b> My finding on "trapped microorganisms within fluid-inclusions" got accepted. Stay tuned for the paper!
   <br>
-      <b>2019/09/20</b> What happened in <i>Calcium cycle</i> during the biggest mass extinction? Check out new paper about Ca and Sr cycle during Permian-Triassic mass extinction! [<a href="https://doi.org/10.1016/j.gca.2019.07.035" style="color: #3BB9FF">Paper</a>]
+      <b>2019/09/20</b> What happened in <i>Calcium cycle</i> during the biggest mass extinction? Check out new paper about Ca and Sr cycle during Permian-Triassic mass extinction. [<a href="https://doi.org/10.1016/j.gca.2019.07.035" style="color: #3BB9FF">Paper</a>]
 </p>
 
 <p style="font-family:'Roboto', sans-serif; font-size:18px;text-align:left">
