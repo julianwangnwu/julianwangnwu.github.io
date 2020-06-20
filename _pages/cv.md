@@ -70,5 +70,5 @@ Technical Projects
   * Built data ingestion micro-service with **JSON Schema** to validate and parse raw JSON real-time data
   * Created real-time web map with **GeoLocation** and **Google Map** APIs, built event dashboard to display production information, such as coordinate, depth, temperature, well-head pressure and oil flow
   * Utilized **ElasticSearch** to provide location based search functions for users to search and sort wells
-  * Implemented asynchronous system using producer-consumer pattern with RabbitMQ as message broker to decouple multiple requests simultaneously
+  * Implemented asynchronous system using producer-consumer pattern with **RabbitMQ** as message broker to decouple multiple requests simultaneously
   * Built non-relational database (**MongoDB**) to store production data and optimized for analytics
