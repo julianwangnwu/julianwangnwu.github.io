@@ -24,9 +24,11 @@ redirect_from:
 </p>
 
 <p style="font-family:'Roboto', sans-serif; font-size:19px;text-align:left">
-      <b>2020/06/19</b> I will help to convene a session in <b>GSA2020 (Virtual)</b> with Drs. Ben Linzmeier, Adam Denny, and Huan Cui. Please consider submitting an abstract to our session:  <a href="https://community.geosociety.org/gsa2020/home" style="color: #3BB9FF">T105. Assessing the Fidelity of Geochemical Signals in Deep Time: Primary, Authigenic, and Diagenetic Signals in Proxy Data</a>.
+      <b>2020/06/22</b> I will help to convene a session in <b>GSA2020 (Virtual)</b> with Drs. Ben Linzmeier, Adam Denny, and Huan Cui. Please consider submitting an abstract to our session:  <a href="https://community.geosociety.org/gsa2020/home" style="color: #3BB9FF">T105. Assessing the Fidelity of Geochemical Signals in Deep Time: Primary, Authigenic, and Diagenetic Signals in Proxy Data</a>.
   <br>
-      <b>2020/05/29</b> Want to better extract pore information from well logs? Check out our new evaluations on how mineralogy and diagenesis affect pore structures based on well-log information. [<a href="https://doi.org/10.1016/j.jngse.2020.103376" style="color: #3BB9FF">Paper</a>]
+      <b>2020/06/15</b> I gave a talk at <a href="https://goldschmidt.info/2020/abstracts/abstractView?id=2020004896" style="color: #3BB9FF">Goldschmidt2020 (Virtual)</a> and discussed our new findings of volcanically-triggered biocalcification crisis signals across OAE1a at Resolution Guyot, mid-Pacific.
+  <br>
+      <b>2020/05/29</b> Want to better extract pore information from well logs? Check out our new evaluation on how mineralogy and diagenesis affect pore structures based on well-log information. [<a href="https://doi.org/10.1016/j.jngse.2020.103376" style="color: #3BB9FF">Paper</a>]
   <br>
       <b>2020/03/21</b> LIP eruption could produce dolomite? Check out new paper about dolomitization induced by the Emeishan Large Igneous Province. [<a href="https://doi.org/10.1016/j.marpetgeo.2020.104308" style="color: #3BB9FF">Paper</a>]
   <br>
@@ -40,5 +42,5 @@ redirect_from:
 <p style="font-family:'Roboto', sans-serif; font-size:18px;text-align:left">
     <b> Misc </b>
     <br>
-    I am fond of technology, so I keep learning new stuffs and occasionally write <a href="https://julianwangnwu.github.io/year-archive/" style="color: #3BB9FF">notes</a> about them. I like numbers and co-manage a small mutual fund (~$10M) as a hobby since 2014. I travel around the world and sometimes take <a href="https://julianwangnwu.github.io/portfolio/" style="color: #3BB9FF">photos</a>.
+    I am fond of new technologies, so I keep learning new stuffs (e.g., new technical stacks, programming languages) and occasionally write <a href="https://julianwangnwu.github.io/year-archive/" style="color: #3BB9FF">notes</a> about them. I like numbers and co-manage a small mutual fund (~$10M) as a hobby since 2014. I travel around the world and sometimes take <a href="https://julianwangnwu.github.io/portfolio/" style="color: #3BB9FF">photos</a>.
 </p>
