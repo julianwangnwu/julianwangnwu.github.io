@@ -24,7 +24,6 @@ redirect_from:
 </p>
 
 <p style="font-family:'Roboto', sans-serif; font-size:19px;text-align:left">
-
       <b>2020/07/15</b> Our paper "Tectonic control of Guadalupian-Lopingian cherts in northwestern Sichuan Basin, South China" got accepted.
   <br>
       <b>2020/06/22</b> I will help to convene a session in <b>GSA2020 (Virtual)</b> with Drs. Ben Linzmeier, Adam Denny, and Huan Cui. Please consider submitting an abstract to our session:  <a href="https://community.geosociety.org/gsa2020/program/technical/topical" style="color: #3BB9FF">T105. Assessing the Fidelity of Geochemical Signals in Deep Time: Primary, Authigenic, and Diagenetic Signals in Proxy Data</a>.
