@@ -14,7 +14,7 @@ redirect_from:
 
 **Wang, J.**, Arthur, M. A., *(in revision)* The diagenetic origin and depositional history of the Cherry Valley Member, middle-Devonian Marcellus Formation.
 
-Dong Y., Fu S., Wen L., Chen H., **Wang J.**, Zhu P., Xu S., Cui Y., *(in revision)* Tectonic control of Guadalupian-Lopingian cherts in northwestern Sichuan Basin, South China. Palaeogeography, Palaeoclimatology, Palaeoecology
+Dong Y., Fu S., Wen L., Chen H., **Wang J.**, Zhu P., Xu S., Cui Y., *(accepted)* Tectonic control of Guadalupian-Lopingian cherts in northwestern Sichuan Basin, South China. Palaeogeography, Palaeoclimatology, Palaeoecology
 
 Chen, Y., **Wang, J.**, Zhou Z., Chen X., Zhao Z, Shi P., Han Y., *(accepted)* Ancient Microorganisms and Carotenoid Preserved in Fluid Inclusion in Halite from Chaka Salt Lake, Western China: Evidence from Micro-observation and in situ Raman Spectroscopy. Acta Geologica Sinica.
 
