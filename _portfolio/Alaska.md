@@ -3,4 +3,5 @@ title: "The Last Frontier"
 excerpt: "<img src='/images/Gallery_Alaska1.jpg'>"
 collection: portfolio
 ---
-<img src=“/images/Gallery_Alaska2.jpg” alt = "Mon with her cubs">
+
+<br/><img src='/images/Gallery_Alaska2.jpg'>
