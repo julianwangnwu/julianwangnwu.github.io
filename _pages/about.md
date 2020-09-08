@@ -24,6 +24,8 @@ redirect_from:
 </p>
 
 <p style="font-family:'Roboto', sans-serif; font-size:19px;text-align:left">
+      <b>2020/09/09</b> My paper with Mike, "The diagenetic origin and depositional history of the Cherry Valley Member, Middle Devonian Marcellus Formation", got accepted!
+  <br>
       <b>2020/07/15</b> Our paper "Tectonic control of Guadalupian-Lopingian cherts in northwestern Sichuan Basin, South China" got accepted. [<a href="https://doi.org/10.1016/j.palaeo.2020.109915" style="color: #3BB9FF">Paper</a>]
   <br>
       <b>2020/06/22</b> I will help to convene a session in <b>GSA2020 (Virtual)</b> with Drs. Ben Linzmeier, Adam Denny, and Huan Cui. Please consider submitting an abstract to our session:  <a href="https://community.geosociety.org/gsa2020/program/technical/topical" style="color: #3BB9FF">T105. Assessing the Fidelity of Geochemical Signals in Deep Time: Primary, Authigenic, and Diagenetic Signals in Proxy Data</a>.
