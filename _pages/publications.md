@@ -12,11 +12,11 @@ redirect_from:
 
 **Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T. *(in review)* Ca and Sr isotopes indicate volcanism-triggered biocalcification crisis during Oceanic Anoxic Event 1a.
 
-**Wang, J.**, Arthur, M. A., *(in revision)* The diagenetic origin and depositional history of the Cherry Valley Member, middle-Devonian Marcellus Formation.
-
-Dong Y., Fu S., Wen L., Chen H., **Wang J.**, Zhu P., Xu S., Cui Y., *(accepted)* Tectonic control of Guadalupian-Lopingian cherts in northwestern Sichuan Basin, South China. Palaeogeography, Palaeoclimatology, Palaeoecology
+**Wang, J.**, Arthur, M. A., *(accepted)* The diagenetic origin and depositional history of the Cherry Valley Member, middle-Devonian Marcellus Formation. Chemical Geology.
 
 Chen, Y., **Wang, J.**, Zhou Z., Chen X., Zhao Z, Shi P., Han Y., *(accepted)* Ancient Microorganisms and Carotenoid Preserved in Fluid Inclusion in Halite from Chaka Salt Lake, Western China: Evidence from Micro-observation and in situ Raman Spectroscopy. Acta Geologica Sinica.
+
+Dong Y., Fu S., Wen L., Chen H., **Wang J.**, Zhu P., Xu S., Cui Y., Tectonic control of Guadalupian-Lopingian cherts in northwestern Sichuan Basin, South China. Palaeogeography, Palaeoclimatology, Palaeoecology, 104308. https://doi.org/10.1016/j.marpetgeo.2020.104308
 
 **Wang, J.**, Jacobson, A.D., Zhang, H., Ramezani, J., Sageman, B.B., Hurtgen, M.T., Bowring, S.A. and Shen, S.Z., 2019. Coupled δ44/40Ca, δ88/86Sr, and 87Sr/86Sr geochemistry across the end-Permian mass extinction event. Geochimica et Cosmochimica Acta, 262, pp.143-165. https://doi.org/10.1016/j.gca.2019.07.035
 
