@@ -10,7 +10,7 @@ date: 2020-06-01
 location: "Evanston, USA"
 ---
 
-Teaching assistant at Northwestern for 4 undergraduate-level courses, and 1 graduate-level course：  
+Teaching assistant for 4 undergraduate-level courses, and 1 graduate-level course：  
 Earth 106: The Ocean, the Atmosphere and our Climate  
 Earth 201: Earth Systems Revealed  
 ISEN 230: Climate Change and Sustainability: Ethical and Economic Dimensions  
