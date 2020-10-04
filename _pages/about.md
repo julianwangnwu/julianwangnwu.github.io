@@ -18,13 +18,17 @@ redirect_from:
 <p style="font-family:'Roboto', sans-serif; font-size:19px;text-align:left">         
          I completed a M.S. degree from Penn State University, where I was advised by <a href="https://www.geosc.psu.edu/academic-faculty/arthur-michael" style="color: #3BB9FF">Mike Arthur</a>, and a B.E. degree from China University of Petroleum.
 </p>
-
+<p style="font-family:'Roboto', sans-serif; font-size:24px;text-align:left">
+    <b> Upcoming talks </b>
+</p>
+<p style="font-family:'Roboto', sans-serif; font-size:19px;text-align:left">
+      <b>2020/10/29</b> GSA 2020: Calcium isotope variability across ancient candidate ocean acidification events
 <p style="font-family:'Roboto', sans-serif; font-size:24px;text-align:left">
     <b> News </b>
 </p>
 
 <p style="font-family:'Roboto', sans-serif; font-size:19px;text-align:left">
-      <b>2020/09/08</b> My paper with Mike, "The diagenetic origin and depositional history of the Cherry Valley Member, Middle Devonian Marcellus Formation", got accepted!
+      <b>2020/09/08</b> My paper with Mike, "The diagenetic origin and depositional history of the Cherry Valley Member, Middle Devonian Marcellus Formation", got accepted. [<a href="https://doi.org/10.1016/j.chemgeo.2020.119875" style="color: #3BB9FF">Paper</a>]
   <br>
       <b>2020/07/15</b> Our paper "Tectonic control of Guadalupian-Lopingian cherts in northwestern Sichuan Basin, South China" got accepted. [<a href="https://doi.org/10.1016/j.palaeo.2020.109915" style="color: #3BB9FF">Paper</a>]
   <br>
