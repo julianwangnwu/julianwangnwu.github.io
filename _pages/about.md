@@ -28,7 +28,7 @@ redirect_from:
 </p>
 
 <p style="font-family:'Roboto', sans-serif; font-size:19px;text-align:left">
-      <b>2020/10/23</b> Our paper "Stable Ca and Sr isotopes support volcanically-triggered biocalcification crisis during Oceanic Anoxic Event 1a", is now accepted by <i>Geology</i>. Stay tuned for the paper!
+      <b>2020/10/23</b> Our study, "Stable Ca and Sr isotopes support volcanically-triggered biocalcification crisis during Oceanic Anoxic Event 1a", is now accepted by <i>Geology</i>. Stay tuned for the paper!
   <br>      
       <b>2020/09/08</b> My paper with Mike, "The diagenetic origin and depositional history of the Cherry Valley Member, Middle Devonian Marcellus Formation", is now published. [<a href="https://doi.org/10.1016/j.chemgeo.2020.119875" style="color: #3BB9FF">Paper</a>]
   <br>
@@ -46,7 +46,7 @@ redirect_from:
   <br>
       <b>2019/12/30</b> My finding on "trapped microorganisms within fluid-inclusions" got accepted. Stay tuned for the paper!
   <br>
-      <b>2019/09/20</b> What happened in <i>Calcium cycle</i> during the biggest mass extinction? Check out new paper about Ca and Sr cycle during Permian-Triassic mass extinction. [<a href="https://doi.org/10.1016/j.gca.2019.07.035" style="color: #3BB9FF">Paper</a>]
+      <b>2019/09/20</b> What perturbed the <i>Calcium cycle</i> during the biggest mass extinction? Check out new paper about Ca and Sr cycle during Permian-Triassic mass extinction. [<a href="https://doi.org/10.1016/j.gca.2019.07.035" style="color: #3BB9FF">Paper</a>]
 </p>
 
 <p style="font-family:'Roboto', sans-serif; font-size:18px;text-align:left">
