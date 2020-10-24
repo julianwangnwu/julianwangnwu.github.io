@@ -28,11 +28,13 @@ redirect_from:
 </p>
 
 <p style="font-family:'Roboto', sans-serif; font-size:19px;text-align:left">
-      <b>2020/09/08</b> My paper with Mike, "The diagenetic origin and depositional history of the Cherry Valley Member, Middle Devonian Marcellus Formation", got accepted. [<a href="https://doi.org/10.1016/j.chemgeo.2020.119875" style="color: #3BB9FF">Paper</a>]
+      <b>2020/10/23</b> Our paper "Stable Ca and Sr isotopes support volcanically-triggered biocalcification crisis during Oceanic Anoxic Event 1a", is now accepted by <i>Geology</i>. Stay tuned for the paper!
+  <br>      
+      <b>2020/09/08</b> My paper with Mike, "The diagenetic origin and depositional history of the Cherry Valley Member, Middle Devonian Marcellus Formation", is now published. [<a href="https://doi.org/10.1016/j.chemgeo.2020.119875" style="color: #3BB9FF">Paper</a>]
   <br>
       <b>2020/07/15</b> Our paper "Tectonic control of Guadalupian-Lopingian cherts in northwestern Sichuan Basin, South China" got accepted. [<a href="https://doi.org/10.1016/j.palaeo.2020.109915" style="color: #3BB9FF">Paper</a>]
   <br>
-      <b>2020/06/22</b> I will help to convene a session in <b>GSA2020 (Virtual)</b> with Drs. Ben Linzmeier, Adam Denny, and Huan Cui. Please consider submitting an abstract to our session:  <a href="https://community.geosociety.org/gsa2020/program/technical/topical" style="color: #3BB9FF">T105. Assessing the Fidelity of Geochemical Signals in Deep Time: Primary, Authigenic, and Diagenetic Signals in Proxy Data</a>.
+      <b>2020/06/22</b> I will help to convene a session in <i>GSA2020 (Virtual)</i> with Drs. Ben Linzmeier, Adam Denny, and Huan Cui. Please consider submitting an abstract to our session:  <a href="https://community.geosociety.org/gsa2020/program/technical/topical" style="color: #3BB9FF">T105. Assessing the Fidelity of Geochemical Signals in Deep Time: Primary, Authigenic, and Diagenetic Signals in Proxy Data</a>.
   <br>
       <b>2020/06/15</b> I gave a talk at <a href="https://goldschmidt.info/2020/abstracts/abstractView?id=2020004896" style="color: #3BB9FF">Goldschmidt2020 (Virtual)</a> and discussed our new findings of volcanically-triggered biocalcification crisis signals across OAE1a at Resolution Guyot, mid-Pacific.
   <br>

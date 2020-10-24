@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-**Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T. *(in review)* Ca and Sr isotopes indicate volcanism-triggered biocalcification crisis during Oceanic Anoxic Event 1a.
+**Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T. *(accepted)* Ca and Sr isotopes indicate volcanism-triggered biocalcification crisis during Oceanic Anoxic Event 1a. Geology.
 
 Chen, Y., **Wang, J.**, Zhou Z., Chen X., Zhao Z, Shi P., Han Y., *(accepted)* Ancient Microorganisms and Carotenoid Preserved in Fluid Inclusion in Halite from Chaka Salt Lake, Western China: Evidence from Micro-observation and in situ Raman Spectroscopy. Acta Geologica Sinica.
 
