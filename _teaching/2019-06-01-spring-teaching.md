@@ -6,7 +6,7 @@ permalink: /teaching/2019-06-01-spring-teaching
 excerpt: "Read testimonials from students.
  <br/><img src='/images/TA-test.png'>"
 venue: "Northwestern University"
-date: 2020-06-01
+date: 2015-2020
 location: "Evanston, USA"
 ---
 
