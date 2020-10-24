@@ -22,31 +22,31 @@ redirect_from:
     <b> Upcoming talks </b>
 </p>
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-      <b>2020/10/29</b> GSA 2020: Calcium isotope variability across ancient candidate ocean acidification events
+      <b>2020/10/29</b>- GSA 2020: Calcium isotope variability across ancient candidate ocean acidification events
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
     <b> News </b>
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-      <b>2020/10/23</b> Our study, "Stable Ca and Sr isotopes support volcanically-triggered biocalcification crisis during Oceanic Anoxic Event 1a", is now accepted by <i>Geology</i>. Stay tuned for the paper!
+      <b>2020/10/23</b>- Our study, "Stable Ca and Sr isotopes support volcanically-triggered biocalcification crisis during Oceanic Anoxic Event 1a", is now accepted by <i>Geology</i>. Stay tuned for the paper!
   <br>      
-      <b>2020/09/08</b> My paper with Mike, "The diagenetic origin and depositional history of the Cherry Valley Member, Middle Devonian Marcellus Formation", is now published. [<a href="https://doi.org/10.1016/j.chemgeo.2020.119875" style="color: #3BB9FF">Paper</a>]
+      <b>2020/09/08</b>- My paper with Mike, "The diagenetic origin and depositional history of the Cherry Valley Member, Middle Devonian Marcellus Formation", is now published. [<a href="https://doi.org/10.1016/j.chemgeo.2020.119875" style="color: #3BB9FF">Paper</a>]
   <br>
-      <b>2020/07/15</b> Our paper "Tectonic control of Guadalupian-Lopingian cherts in northwestern Sichuan Basin, South China" got accepted. [<a href="https://doi.org/10.1016/j.palaeo.2020.109915" style="color: #3BB9FF">Paper</a>]
+      <b>2020/07/15</b>- Our paper "Tectonic control of Guadalupian-Lopingian cherts in northwestern Sichuan Basin, South China" got accepted. [<a href="https://doi.org/10.1016/j.palaeo.2020.109915" style="color: #3BB9FF">Paper</a>]
   <br>
-      <b>2020/06/22</b> I will help to convene a session in <i>GSA2020 (Virtual)</i> with Drs. Ben Linzmeier, Adam Denny, and Huan Cui. Please consider submitting an abstract to our session:  <a href="https://community.geosociety.org/gsa2020/program/technical/topical" style="color: #3BB9FF">T105. Assessing the Fidelity of Geochemical Signals in Deep Time: Primary, Authigenic, and Diagenetic Signals in Proxy Data</a>.
+      <b>2020/06/22</b>- I will help to convene a session in <i>GSA2020 (Virtual)</i> with Drs. Ben Linzmeier, Adam Denny, and Huan Cui. Please consider submitting an abstract to our session:  <a href="https://community.geosociety.org/gsa2020/program/technical/topical" style="color: #3BB9FF">T105. Assessing the Fidelity of Geochemical Signals in Deep Time: Primary, Authigenic, and Diagenetic Signals in Proxy Data</a>.
   <br>
-      <b>2020/06/15</b> I gave a talk at <a href="https://goldschmidt.info/2020/abstracts/abstractView?id=2020004896" style="color: #3BB9FF">Goldschmidt2020 (Virtual)</a> and discussed our new findings of volcanically-triggered biocalcification crisis signals across OAE1a at Resolution Guyot, mid-Pacific.
+      <b>2020/06/15</b>- I gave a talk at <a href="https://goldschmidt.info/2020/abstracts/abstractView?id=2020004896" style="color: #3BB9FF">Goldschmidt2020 (Virtual)</a> and discussed our new findings of volcanically-triggered biocalcification crisis signals across OAE1a at Resolution Guyot, mid-Pacific.
   <br>
-      <b>2020/05/29</b> Want to better extract pore information from well logs? Check out our new evaluation on how mineralogy and diagenesis affect pore structures based on well-log information. [<a href="https://doi.org/10.1016/j.jngse.2020.103376" style="color: #3BB9FF">Paper</a>]
+      <b>2020/05/29</b>- Want to better extract pore information from well logs? Check out our new evaluation on how mineralogy and diagenesis affect pore structures based on well-log information. [<a href="https://doi.org/10.1016/j.jngse.2020.103376" style="color: #3BB9FF">Paper</a>]
   <br>
-      <b>2020/03/21</b> LIP eruption could produce dolomite? Check out new paper about dolomitization induced by the Emeishan Large Igneous Province. [<a href="https://doi.org/10.1016/j.marpetgeo.2020.104308" style="color: #3BB9FF">Paper</a>]
+      <b>2020/03/21</b>- LIP eruption could produce dolomite? Check out new paper about dolomitization induced by the Emeishan Large Igneous Province. [<a href="https://doi.org/10.1016/j.marpetgeo.2020.104308" style="color: #3BB9FF">Paper</a>]
   <br>
-      <b>2020/01/09</b> Impact vs Volcanism? Check out new paper about changes of carbonate chemistry during end-Cretaceous mass extinction. [<a href="https://doi.org/10.1130/G46431.1" style="color: #3BB9FF">Paper</a>]
+      <b>2020/01/09</b>- Earth was stressed before dinosaur died? Check out new paper about changes of carbonate chemistry before and during end-Cretaceous mass extinction. [<a href="https://doi.org/10.1130/G46431.1" style="color: #3BB9FF">Paper</a>]
   <br>
-      <b>2019/12/30</b> My finding on "trapped microorganisms within fluid-inclusions" got accepted. Stay tuned for the paper!
+      <b>2019/12/30</b>- My finding on "trapped microorganisms within fluid-inclusions" got accepted. Stay tuned for the paper!
   <br>
-      <b>2019/09/20</b> What perturbed the <i>Calcium cycle</i> during the biggest mass extinction? Check out new paper about Ca and Sr cycle during Permian-Triassic mass extinction. [<a href="https://doi.org/10.1016/j.gca.2019.07.035" style="color: #3BB9FF">Paper</a>]
+      <b>2019/09/20</b>- What perturbed the <i>Calcium cycle</i> during the biggest mass extinction? Check out new paper about Ca and Sr cycle during Permian-Triassic mass extinction. [<a href="https://doi.org/10.1016/j.gca.2019.07.035" style="color: #3BB9FF">Paper</a>]
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:18px;text-align:left">
