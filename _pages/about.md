@@ -12,7 +12,7 @@ redirect_from:
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-         I am currently a Ph.D. candidate at Northwestern University, working with <a href="https://www.earth.northwestern.edu/our-people/faculty/sageman-brad.html" style="color: #3BB9FF">Brad Sageman</a>, <a href="https://www.earth.northwestern.edu/our-people/faculty/jacobson-andrew.html" style="color: #3BB9FF">Andy Jacobson</a>, and <a href="https://www.earth.northwestern.edu/our-people/faculty/hurtgen-matthew.html" style="color: #3BB9FF">Matt Hurtgen</a>. My research has been broadly in the areas of biogeochemistry and sedimentary geochemistry, with particular focus on causes of biotic turnovers, weathering feedbacks on pCO2, and stable isotope applications on palaeoclimatology and paleoceanography. I am also interested in energy sciences and education.
+         I am currently a Ph.D. candidate at Northwestern University, co-advised by <a href="https://www.earth.northwestern.edu/our-people/faculty/jacobson-andrew.html" style="color: #3BB9FF">Andy Jacobson</a>, <a href="https://www.earth.northwestern.edu/our-people/faculty/sageman-brad.html" style="color: #3BB9FF">Brad Sageman</a>, and <a href="https://www.earth.northwestern.edu/our-people/faculty/hurtgen-matthew.html" style="color: #3BB9FF">Matt Hurtgen</a>. My research has been broadly in the areas of biogeochemistry and sedimentary geochemistry, with particular focus on causes of biotic turnovers, weathering feedbacks on pCO2, and stable isotope applications on palaeoclimatology and paleoceanography. I am also interested in energy sciences and education.
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">         
@@ -22,12 +22,14 @@ redirect_from:
     <b> Upcoming talks </b>
 </p>
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-      <b>2020/10/29</b>- GSA 2020: Calcium isotope variability across ancient candidate ocean acidification events
+      <b>2020/11/20</b>- Will be interviewed by Northwestern to talk about climate change and most our recent paper.
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
     <b> News </b>
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
+      <b>2020/10/29</b>- Gave a talk entitled "Calcium isotope variability across ancient candidate ocean acidification events" at GSA2020. Co-chaired the same session. Quite an experience!
+  <br>
       <b>2020/10/23</b>- Our study, "Stable Ca and Sr isotopes support volcanically-triggered biocalcification crisis during Oceanic Anoxic Event 1a", is now accepted by <i>Geology</i>. Stay tuned for the paper!
   <br>      
       <b>2020/09/08</b>- My paper with Mike, "The diagenetic origin and depositional history of the Cherry Valley Member, Middle Devonian Marcellus Formation", is now published. [<a href="https://doi.org/10.1016/j.chemgeo.2020.119875" style="color: #3BB9FF">Paper</a>]
