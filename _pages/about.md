@@ -23,6 +23,7 @@ redirect_from:
 </p>
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
       <b>2020/11/20</b>- I will be interviewed by Northwestern to talk about climate change and our most recent paper.
+      <br>
       <b>2020/12/08</b>- I will defend my Ph.D. dissertation.
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
     <b> News </b>
