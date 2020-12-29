@@ -20,19 +20,18 @@ redirect_from:
 </p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
     <b> Upcoming talks </b>
-</p>
-<p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-      <b>2020/11/20</b>- I will be interviewed by Northwestern to talk about climate change and our most recent paper.
-      <br>
-      <b>2020/12/08</b>- I will defend my Ph.D. dissertation.
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
     <b> News </b>
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-      <b>2020/10/29</b>- Gave a talk entitled "Calcium isotope variability across ancient candidate ocean acidification events" at GSA2020. Co-chaired the same session. Quite an experience!
+      <b>2020/12/08</b>- Successfully defended my Ph.D. dissertation. Will be moving back to the east coast. A la prochaine, Chicago!
   <br>
-      <b>2020/10/23</b>- Our study, "Stable Ca and Sr isotopes support volcanically-triggered biocalcification crisis during Oceanic Anoxic Event 1a", is now accepted by <i>Geology</i>. Stay tuned for the paper!
+      <b>2020/11/20</b>- Interviewed by Northwestern on climate change and our most recent paper. [<a href="https://news.northwestern.edu/stories/2020/12/volcanic-eruptions-directly-triggered-ocean-acidification-during-early-cretaceous/#:~:text=Volcanic%20eruptions%20directly%20triggered%20ocean%20acidification%20during%20Early%20Cretaceous,-First%20study%20to&text=During%20this%20time%2C%20it%20spewed,seawater%20and%20suffocated%20the%20oceans." style="color: #3BB9FF">News</a>]
+  <br>      
+      <b>2020/10/29</b>- Gave a talk entitled "Calcium isotope variability across ancient candidate ocean acidification events" at GSA2020. Co-chaired the same session.
+  <br>
+      <b>2020/10/23</b>- Our study, "Stable Ca and Sr isotopes support volcanically-triggered biocalcification crisis during Oceanic Anoxic Event 1a", is now published in <i>Geology</i>. [<a href="https://doi.org/10.1130/G47945.1" style="color: #3BB9FF">Paper</a>]
   <br>      
       <b>2020/09/08</b>- My paper with Mike, "The diagenetic origin and depositional history of the Cherry Valley Member, Middle Devonian Marcellus Formation", is now published. [<a href="https://doi.org/10.1016/j.chemgeo.2020.119875" style="color: #3BB9FF">Paper</a>]
   <br>
