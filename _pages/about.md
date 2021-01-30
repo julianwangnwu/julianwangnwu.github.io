@@ -20,6 +20,7 @@ redirect_from:
 </p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
     <b> Upcoming talks </b>
+    <b>2021/04/07</b> EPS departmental seminar, Yale University
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
     <b> News </b>
 </p>
