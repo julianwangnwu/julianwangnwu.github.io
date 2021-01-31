@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D, Northwestern University, 2020 (expected)
-* M.S., Penn State University, 2012-2014
-* B.E., China University of Petroleum, 2008-2012
+* Ph.D, Northwestern University, 2020
+* M.S., Penn State University, 2014
+* B.E., China University of Petroleum, 2012
 
 Work experience
 ======
-* Northwestern University (2015- Now): Research and Teaching Assistant
-* Penn State University (2012- 2014): Research Fellow
-* Industry: EQT(2014-2015)/SINOPEC(2010/2011/2012)
+* Yale University (2021 - Now): Postdoctoral Researcher
+* Northwestern University (2015 - 2020): Research and Teaching Assistant
+* Penn State University (2012 - 2014): Research Fellow
+* Industry: EQT(2014 - 2015)
 
 Skills
 ======
@@ -63,12 +64,3 @@ Technical Projects
   * Optimized the multivariable statistical model for exploration area prediction, reduced error by 72%
   * Trained supervised machine learning models including Logistic Regression, Random Forest and KNearest Neighbors, and applied regularization with measured parameters to overcome overfitting
   * Delivered 6 maps for production decision. Presented directly to the CEO and management team
-
-* SPRING Based Web Application: Real-time Oil & Gas Production Visualization and Database (Ongoing)
-*(Real-time crude oil production monitoring system using Java Spring framework)*
-  * Designed and developed a full-stack web application with **Spring MVC** framework to monitor and visualize real-time oil production
-  * Built data ingestion micro-service with **JSON Schema** to validate and parse raw JSON real-time data
-  * Created real-time web map with **GeoLocation** and **Google Map** APIs, built event dashboard to display production information, such as coordinate, depth, temperature, well-head pressure and oil flow
-  * Utilized **ElasticSearch** to provide location based search functions for users to search and sort wells
-  * Implemented asynchronous system using producer-consumer pattern with **RabbitMQ** as message broker to decouple multiple requests simultaneously
-  * Built non-relational database (**MongoDB**) to store production data and optimized for analytics
