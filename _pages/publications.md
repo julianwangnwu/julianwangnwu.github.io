@@ -13,9 +13,9 @@ Dong, Y., Cui, Y., **Wang, J.**, Zheng, F., Wu, Y., Jiang, S., Li Z., *(submitte
 
 Wang W., Katchinoff J., Garbelli C., Immenhauser A., Zheng Q., Zhang Y., Yuan D., Shi, Y., **Wang, J.**, Planavsky, N., Shen, S. *(submitted)* Revisiting the Permian seawater 87Sr/86Sr record: New perspectives from brachiopod proxy data and stochastic oceanic box models
 
-**Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T. 2021 Ca and Sr isotopes indicate volcanism-triggered biocalcification crisis during Oceanic Anoxic Event 1a. Geology. https://doi.org/10.1130/G47945.1
+**Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., 2021. Ca and Sr isotopes indicate volcanism-triggered biocalcification crisis during Oceanic Anoxic Event 1a. Geology. https://doi.org/10.1130/G47945.1
 
-Chen, Y., **Wang, J.**, Zhou Z., Chen X., Zhao Z, Shi P., Han Y., 2020 Ancient Microorganisms and Carotenoid Preserved in Fluid Inclusion in Halite from Chaka Salt Lake, Western China: Evidence from Micro-observation and in situ Raman Spectroscopy. Acta Geologica Sinica.  https://doi.org/10.1111/1755-6724.14618
+Chen, Y., **Wang, J.**, Zhou Z., Chen X., Zhao Z, Shi P., Han Y., 2020. Ancient Microorganisms and Carotenoid Preserved in Fluid Inclusion in Halite from Chaka Salt Lake, Western China: Evidence from Micro-observation and in situ Raman Spectroscopy. Acta Geologica Sinica.  https://doi.org/10.1111/1755-6724.14618
 
 **Wang, J.**, Arthur, M.A., 2020. The diagenetic origin and depositional history of the Cherry Valley Member , Middle Devonian Marcellus Formation. Chem. Geol. 558, 119875. https://doi.org/10.1016/j.chemgeo.2020.119875
 
