@@ -9,6 +9,9 @@ redirect_from:
 {% include base_path %}
 
 
+Dong, Y., Cui, Y., **Wang, J.**, *(submitted)* Zheng, F., Wu, Y., Jiang, S., Li Z., Paleozoic carbon cycle dynamics Insights from stable carbon isotopes in carbonate and C3 land plants
+
+Wang W., Katchinoff J., Garbelli C., Immenhauser A., Zheng Q., Zhang Y., Yuan D., Shi, Y., **Wang, J.**, Planavsky, N., Shen, S., *(submitted)* Revisiting the Permian seawater 87Sr/86Sr record: New perspectives from brachiopod proxy data and stochastic oceanic box models
 
 **Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T. *(accepted)* Ca and Sr isotopes indicate volcanism-triggered biocalcification crisis during Oceanic Anoxic Event 1a. Geology.
 
