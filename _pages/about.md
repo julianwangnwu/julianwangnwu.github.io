@@ -69,5 +69,5 @@ redirect_from:
 <p style="font-family:'PT Serif', serif; font-size:18px;text-align:left">
     <b> Misc </b>
     <br>
-    I am fond of new technologies, so I keep learning new stuffs (e.g., new technical stacks, programming languages) and occasionally write <a href="https://julianwangnwu.github.io/year-archive/" style="color: #3BB9FF">notes</a> about them. I travel around the world and sometimes take <a href="https://julianwangnwu.github.io/portfolio/" style="color: #3BB9FF">photos</a>.
+    I am fond of new technologies, so I keep learning new stuff (e.g., new technical stacks, programming languages) and occasionally write <a href="https://julianwangnwu.github.io/year-archive/" style="color: #3BB9FF">notes</a> about them. I travel around the world and sometimes take <a href="https://julianwangnwu.github.io/portfolio/" style="color: #3BB9FF">photos</a>.
 </p>
