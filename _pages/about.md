@@ -22,7 +22,7 @@ redirect_from:
     <b> Upcoming talks </b>
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-      <b>2021/04/07</b> EPS departmental seminar, Yale University
+
       <br>
     </p>
 </p>
@@ -31,6 +31,14 @@ redirect_from:
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
+      <b>2021/04/07</b> Gave a talk at the departmental postdoc seminar. Received lots of good feedbacks on how to give a job talk. Grateful!
+  <br>
+      <b>2021/03/09</b> Collected first batch of publication-quality Si isotope data. Excited!
+  <br>
+      <b>2021/02/25</b> Fired some laser. Biu-biu~  
+  <br>
+      <b>2021/01/04</b> I joined Yale as a postdoc researcher.
+  <br>
       <b>2020/12/08</b>- Successfully defended my Ph.D. dissertation. Will be moving back to the east coast. A la prochaine, Chicago!
   <br>
       <b>2020/11/20</b>- Interviewed by Northwestern on climate change and our most recent paper. [<a href="https://news.northwestern.edu/stories/2020/12/volcanic-eruptions-directly-triggered-ocean-acidification-during-early-cretaceous/#:~:text=Volcanic%20eruptions%20directly%20triggered%20ocean%20acidification%20during%20Early%20Cretaceous,-First%20study%20to&text=During%20this%20time%2C%20it%20spewed,seawater%20and%20suffocated%20the%20oceans." style="color: #3BB9FF">News</a>]

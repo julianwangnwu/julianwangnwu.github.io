@@ -8,10 +8,11 @@ redirect_from:
 ---
 {% include base_path %}
 
+**Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., *(submitted)* δ44/40Ca-δ88/86Sr multi-proxy constrains primary origin of Marinoan cap carbonates
 
-Dong, Y., Cui, Y., **Wang, J.**, Zheng, F., Wu, Y., Jiang, S., Li Z., *(submitted)* Paleozoic carbon cycle dynamics Insights from stable carbon isotopes in carbonate and C3 land plants
+Dong, Y., Cui, Y., **Wang, J.**, Zheng, F., Wu, Y., Jiang, S., Li Z., *(in revision)* Paleozoic carbon cycle dynamics Insights from stable carbon isotopes in carbonate and C3 land plants
 
-Wang W., Katchinoff J., Garbelli C., Immenhauser A., Zheng Q., Zhang Y., Yuan D., Shi, Y., **Wang, J.**, Planavsky, N., Shen, S. *(submitted)* Revisiting the Permian seawater 87Sr/86Sr record: New perspectives from brachiopod proxy data and stochastic oceanic box models
+Wang W., Katchinoff J., Garbelli C., Immenhauser A., Zheng Q., Zhang Y., Yuan D., Shi, Y., **Wang, J.**, Planavsky, N., Shen, S. *(in revision)* Revisiting the Permian seawater 87Sr/86Sr record: New perspectives from brachiopod proxy data and stochastic oceanic box models
 
 **Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., 2021. Ca and Sr isotopes indicate volcanism-triggered biocalcification crisis during Oceanic Anoxic Event 1a. Geology. https://doi.org/10.1130/G47945.1
 
