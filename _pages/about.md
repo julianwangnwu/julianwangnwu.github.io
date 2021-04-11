@@ -43,7 +43,7 @@ redirect_from:
   <br>
       <b>2020/11/20</b>- Interviewed by Northwestern on climate change and our most recent paper. [<a href="https://news.northwestern.edu/stories/2020/12/volcanic-eruptions-directly-triggered-ocean-acidification-during-early-cretaceous/#:~:text=Volcanic%20eruptions%20directly%20triggered%20ocean%20acidification%20during%20Early%20Cretaceous,-First%20study%20to&text=During%20this%20time%2C%20it%20spewed,seawater%20and%20suffocated%20the%20oceans." style="color: #3BB9FF">News</a>]
   <br>      
-      <b>2020/10/29</b>- Gave a talk entitled "Calcium isotope variability across ancient candidate ocean acidification events" at GSA2020. Co-chaired the same session.
+      <b>2020/10/29</b>- Gave a talk entitled "Calcium isotope variability across ancient candidate ocean acidification events" at GSA2020. Chaired the same session.
   <br>
       <b>2020/10/23</b>- Our study, "Stable Ca and Sr isotopes support volcanically-triggered biocalcification crisis during Oceanic Anoxic Event 1a", is now published in <i>Geology</i>. [<a href="https://doi.org/10.1130/G47945.1" style="color: #3BB9FF">Paper</a>]
   <br>      
@@ -51,7 +51,7 @@ redirect_from:
   <br>
       <b>2020/07/15</b>- Our paper "Tectonic control of Guadalupian-Lopingian cherts in northwestern Sichuan Basin, South China" got accepted. [<a href="https://doi.org/10.1016/j.palaeo.2020.109915" style="color: #3BB9FF">Paper</a>]
   <br>
-      <b>2020/06/22</b>- I will help to convene a session in <i>GSA2020 (Virtual)</i> with Drs. Ben Linzmeier, Adam Denny, and Huan Cui. Please consider submitting an abstract to our session:  <a href="https://community.geosociety.org/gsa2020/program/technical/topical" style="color: #3BB9FF">T105. Assessing the Fidelity of Geochemical Signals in Deep Time: Primary, Authigenic, and Diagenetic Signals in Proxy Data</a>.
+      <b>2020/06/22</b>- I will convene a session in <i>GSA2020 (Virtual)</i> with Drs. Ben Linzmeier, Adam Denny, and Huan Cui. Please consider submitting an abstract to our session:  <a href="https://community.geosociety.org/gsa2020/program/technical/topical" style="color: #3BB9FF">T105. Assessing the Fidelity of Geochemical Signals in Deep Time: Primary, Authigenic, and Diagenetic Signals in Proxy Data</a>.
   <br>
       <b>2020/06/15</b>- I gave a talk at <a href="https://goldschmidt.info/2020/abstracts/abstractView?id=2020004896" style="color: #3BB9FF">Goldschmidt2020 (Virtual)</a> and discussed our new findings of volcanically-triggered biocalcification crisis signals across OAE1a at Resolution Guyot, mid-Pacific.
   <br>
