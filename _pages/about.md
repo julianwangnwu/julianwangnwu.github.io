@@ -35,7 +35,7 @@ redirect_from:
   <br>
       <b>2021/03/09</b> Collected first batch of publication-quality Si isotope data. Excited!
   <br>
-      <b>2021/02/25</b> Fired some laser. Biu-biu~  
+      <b>2021/02/25</b> Fired some laser. Biu biu~  
   <br>
       <b>2021/01/04</b> I joined Yale as a postdoc researcher.
   <br>
