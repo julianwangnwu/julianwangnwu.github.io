@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-**Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., *(submitted)* δ44/40Ca-δ88/86Sr multi-proxy constrains primary origin of Marinoan cap carbonates
+**Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., *(in review)* δ44/40Ca-δ88/86Sr multi-proxy constrains primary origin of Marinoan cap carbonates
 
 Dong, Y., Cui, Y., **Wang, J.**, Zheng, F., Wu, Y., Jiang, S., Li Z., *(in revision)* Paleozoic carbon cycle dynamics Insights from stable carbon isotopes in carbonate and C3 land plants
 

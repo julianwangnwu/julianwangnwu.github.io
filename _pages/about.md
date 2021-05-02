@@ -22,7 +22,7 @@ redirect_from:
     <b> Upcoming talks </b>
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-
+      <b>2021/04/28</b> Will give a talk at the carbonate proxy symposium of the UC Riverside.
       <br>
     </p>
 </p>
