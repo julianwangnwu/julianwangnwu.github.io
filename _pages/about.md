@@ -22,8 +22,7 @@ redirect_from:
     <b> Upcoming talks </b>
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-      <b>2021/04/28</b> Will give a talk at the carbonate proxy symposium of the UC Riverside.
-      <br>
+      <b>2021/11/05</b> I am invited to give a talk at Montclair State University, NJ.
     </p>
 </p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
@@ -31,6 +30,10 @@ redirect_from:
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
+      <b>2021/06/01</b> Won Northwestern 2021 Sloss award.
+<br>
+      <b>2021/04/28</b> Gave a talk at the carbonate proxy symposium of the UC Riverside.
+<br>
       <b>2021/04/07</b> Gave a talk at the departmental postdoc seminar. Received lots of good feedbacks on how to give a job talk. Grateful!
   <br>
       <b>2021/03/09</b> Collected first batch of publication-quality Si isotope data. Excited!
