@@ -22,6 +22,7 @@ redirect_from:
     <b> Upcoming talks </b>
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
+      <b>2021/10/13</b> I will give a talk at Andy Knoll's honorary session in this year's GSA meeting (Portland, Oregon). 
       <b>2021/11/05</b> I am invited to give a talk at Montclair State University, NJ.
     </p>
 </p>
