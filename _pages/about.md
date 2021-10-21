@@ -22,8 +22,6 @@ redirect_from:
     <b> Upcoming talks </b>
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-      <b>2021/10/13</b> I will give a talk in Andy Knoll's honorary session at this year's GSA meeting (Portland, Oregon). 
-      <br>
       <b>2021/11/05</b> I am invited to give a talk at Montclair State University, NJ.
     </p>
 </p>
@@ -32,6 +30,8 @@ redirect_from:
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
+      <b>2021/10/13</b> Attended GSA2021 and gave a talk in Andy Knoll's honorary session. First in-person conference in almost 2 years. Nice seeing many colleagues and good friends.
+<br>
       <b>2021/06/01</b> Won Northwestern 2021 Sloss award.
 <br>
       <b>2021/04/28</b> Gave a talk at the carbonate proxy symposium of the UC Riverside.

@@ -10,7 +10,7 @@ redirect_from:
 
 **Wang, J.**, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., *(in review)* δ44/40Ca-δ88/86Sr multi-proxy constrains primary origin of Marinoan cap carbonates
 
-Dong, Y., Cui, Y., **Wang, J.**, Zheng, F., Wu, Y., Jiang, S., Li Z., *(accepted)* Paleozoic carbon cycle dynamics Insights from stable carbon isotopes in carbonate and C3 land plants
+Dong, Y., Cui, Y., **Wang, J.**^+^, Zheng, F., Wu, Y., Jiang, S., Li Z., 2021. Paleozoic carbon cycle dynamics Insights from stable carbon isotopes in carbonate and C3 land plants. Earth Science Reviews. https://doi.org/10.1016/j.earscirev.2021.103813
 
 Wang W., Katchinoff J., Garbelli C., Immenhauser A., Zheng Q., Zhang Y., Yuan D., Shi, Y., **Wang, J.**, Planavsky, N., Shen, S. Revisiting the Permian seawater 87Sr/86Sr record: New perspectives from brachiopod proxy data and stochastic oceanic box models. Earth Science Reviews. https://doi.org/10.1016/j.earscirev.2021.103679
 
