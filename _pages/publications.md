@@ -33,3 +33,5 @@ redirect_from:
 2. Zhu, P., Dong, Y., Chen, M., Li, Z., Han, B., **Wang, J.**, and Cui, Y., 2020, Journal of Natural Gas Science and Engineering Quantitative evaluation of pore structure from mineralogical and diagenetic information extracted from well logs in tight sandstone reservoirs. <a href="https://doi:10.1016/j.jngse.2020.103376" style="color: #3BB9FF">Journal of Natural Gas Science and Engineering</a>.
 
 1. **Wang, J.**<sup>#</sup>, Jacobson, A.D., Zhang, H., Ramezani, J., Sageman, B.B., Hurtgen, M.T., Bowring, S.A. and Shen, S.Z., 2019. Coupled δ<sup>44/40</sup>Ca, δ<sup>88/86</sup>Sr, and <sup>87</sup>Sr/<sup>86</sup>Sr geochemistry across the end-Permian mass extinction event. <a href="https://doi.org/10.1016/j.gca.2019.07.035" style="color: #3BB9FF">Geochimica et Cosmochimica Acta</a>.
+
+{: reversed="reversed"}
