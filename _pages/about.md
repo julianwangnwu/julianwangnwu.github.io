@@ -22,7 +22,7 @@ redirect_from:
     <b> Upcoming talks </b>
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-      <b>2021/11/05</b> I am invited to give a talk at Montclair State University, NJ.
+      <b>2021/11/08</b> I am invited to give a talk at <a href="https://www.montclair.edu/environmental-management-phd/sustainability-seminar-series/" style="color: #3BB9FF">Montclair State University</a>, NJ.
     </p>
 </p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
