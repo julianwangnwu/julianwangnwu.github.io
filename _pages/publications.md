@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 {% include base_path %}
-<sup>+</sup> denotes corresponding author; <sup>#</sup> denotes corresponding author.
+<sup>+</sup> denotes student author; <sup>#</sup> denotes corresponding author.
 
 12) **Wang, J.**<sup>#</sup>, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., *(in review)* δ<sup>44/40</sup>Ca-δ<sup>88/86</sup>Sr multi-proxy constrains primary origin of Marinoan cap carbonates
 
