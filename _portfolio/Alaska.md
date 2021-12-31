@@ -1,5 +1,5 @@
 ---
-title: "The Last Frontier"
+title: "Alaska - The Last Frontier"
 excerpt: "<img src='/images/Gallery_Alaska1.jpg'>"
 collection: portfolio
 ---
