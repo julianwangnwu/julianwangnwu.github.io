@@ -12,11 +12,11 @@ redirect_from:
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-         I am currently a postdoctoral researcher with <a href="https://people.earth.yale.edu/profile/lidya-tarhan/about" style="color: #3BB9FF">Prof. Lidya Tarhan</a> at Yale University, where I also work closely with <a href="https://people.earth.yale.edu/profile/noah-planavsky/about" style="color: #3BB9FF">Prof. Noah Planavsky</a>         and other great researchers. I finished my Ph.D. at Northwestern University, co-advised by <a href="https://www.earth.northwestern.edu/our-people/faculty/sageman-brad.html" style="color: #3BB9FF">Brad Sageman</a>, <a href="https://www.earth.northwestern.edu/our-people/faculty/jacobson-andrew.html" style="color: #3BB9FF">Andy Jacobson</a>, and <a href="https://www.earth.northwestern.edu/our-people/faculty/hurtgen-matthew.html" style="color: #3BB9FF">Matt Hurtgen</a>. My research has been broadly in the areas of biogeochemistry and sedimentary geochemistry, with particular focus on causes of biotic turnovers, weathering feedbacks on pCO2, and stable isotope applications on palaeoclimatology and paleoceanography. I am also interested in energy sciences and education.
+         I am currently an Agouron geobiology fellow with <a href="https://people.earth.yale.edu/profile/lidya-tarhan/about" style="color: #3BB9FF">Prof. Lidya Tarhan</a> at Yale University, where I also work closely with <a href="https://people.earth.yale.edu/profile/noah-planavsky/about" style="color: #3BB9FF">Prof. Noah Planavsky</a> and other great researchers. My research has been broadly in the areas of sedimentary geochemistry and geobiology, with particular focus on the coevolution of life and environment, climate and its feedbacks on seawater chemistry, as well as fundamental behavior of selected isotope systems. I am also interested in energy sciences and education.
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">         
-         I completed a M.S. degree from Penn State University, where I was advised by <a href="https://www.geosc.psu.edu/academic-faculty/arthur-michael" style="color: #3BB9FF">Mike Arthur</a>, and a B.E. degree from China University of Petroleum.
+         I finished my Ph.D. at Northwestern University, co-advised by <a href="https://www.earth.northwestern.edu/our-people/faculty/sageman-brad.html" style="color: #3BB9FF">Brad Sageman</a>, <a href="https://www.earth.northwestern.edu/our-people/faculty/jacobson-andrew.html" style="color: #3BB9FF">Andy Jacobson</a>, and <a href="https://www.earth.northwestern.edu/our-people/faculty/hurtgen-matthew.html" style="color: #3BB9FF">Matt Hurtgen</a>. I hold a M.S. degree from Penn State University under <a href="https://www.ems.psu.edu/directory/michael-arthur" style="color: #3BB9FF">Mike Arthur</a>, and a B.E. degree from China University of Petroleum.
 </p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
     <b> Upcoming talks </b>
@@ -30,17 +30,17 @@ redirect_from:
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-      <b>2021/10/13</b> Attended GSA2021 and gave a talk in Andy Knoll's honorary session. First in-person conference in almost 2 years. Nice seeing many colleagues and good friends.
+      <b>2021/10/13</b> Attended GSA2021 and gave a talk in Andy Knoll's honorary session. First in-person conference in almost 2 years. Very nice to see many colleagues and good friends.
 <br>
       <b>2021/06/01</b> Won Northwestern 2021 Sloss award.
 <br>
       <b>2021/04/28</b> Gave a talk at the carbonate proxy symposium of the UC Riverside.
 <br>
-      <b>2021/04/07</b> Gave a talk at the departmental postdoc seminar. Received lots of good feedbacks on how to give a job talk. Grateful!
+      <b>2021/04/07</b> Gave a talk at the Yale departmental postdoc seminar. Received lots of good feedbacks on how to give a job talk. Grateful!
   <br>
       <b>2021/03/09</b> Collected first batch of publication-quality Si isotope data. Excited!
   <br>
-      <b>2021/02/25</b> Fired some laser. Biu biu~  
+      <b>2021/02/25</b> Fired some laser.
   <br>
       <b>2021/01/04</b> I joined Yale as a postdoc researcher.
   <br>
