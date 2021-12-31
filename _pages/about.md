@@ -12,7 +12,7 @@ redirect_from:
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-         I am currently an Agouron geobiology fellow with <a href="https://people.earth.yale.edu/profile/lidya-tarhan/about" style="color: #3BB9FF">Prof. Lidya Tarhan</a> at Yale University, where I also work closely with <a href="https://people.earth.yale.edu/profile/noah-planavsky/about" style="color: #3BB9FF">Prof. Noah Planavsky</a> and other great researchers. My research has been broadly in the areas of sedimentary geochemistry and geobiology, with particular focus on the coevolution of life and environment, climate and its feedbacks on seawater chemistry, as well as fundamental behavior of selected isotope systems. I am also interested in energy sciences and education.
+         I am currently an Agouron geobiology fellow with <a href="https://people.earth.yale.edu/profile/lidya-tarhan/about" style="color: #3BB9FF">Prof. Lidya Tarhan</a> at Yale University, where I also work closely with <a href="https://people.earth.yale.edu/profile/noah-planavsky/about" style="color: #3BB9FF">Prof. Noah Planavsky</a> and other great researchers. My research has been broadly in the areas of sedimentary geochemistry and geobiology, with particular focus on the coevolution of life and environment, climate and its feedbacks on seawater chemistry, as well as behaviors of selected isotope systems. I am also interested in energy sciences and education.
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">         
