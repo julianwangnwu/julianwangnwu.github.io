@@ -9,6 +9,8 @@ redirect_from:
 {% include base_path %}
 <sup>+</sup> denotes student author; <sup>#</sup> denotes corresponding author.
 
+14) Wei, G., **Wang, J.**<sup>#</sup>, Planavsky, N.J., Zhao, M., Bolton, E. W., Jiang, L., Asael, D., Wei. W., Ling, H.,  *(submitted)* On the origin of Shuram carbon isotope excursion in South China and its implication on Ediacaran atmospheric oxygen levels
+
 13) **Wang, J.**<sup>#</sup>, Asael, D., Planavsky, N.J., Tarhan, L. G., *(in review)* An investigation of factors affecting high-precision Sr isotope analyses <sup>87</sup>Sr/<sup>86</sup>Sr and δ<sup>88/86</sup>Sr by MC-ICP-MS
 
 12) **Wang, J.**<sup>#</sup>, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., *(in revision)* δ<sup>44/40</sup>Ca-δ<sup>88/86</sup>Sr multi-proxy constrains primary origin of Marinoan cap carbonates

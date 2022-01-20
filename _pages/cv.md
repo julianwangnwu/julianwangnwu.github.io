@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D, Northwestern University, 2020
+* Ph.D, Northwestern University, 2021
 * M.S., Penn State University, 2014
 * B.E., China University of Petroleum, 2012
 
@@ -25,7 +25,7 @@ Work experience
 Skills
 ======
 * Analytical tools:
-  * Isotopes: IRMS, TIMS, MC-ICP-MS
+  * Isotopes: IRMS, TIMS, MC-ICP-MS, LA-ICP-MS
   * Elements: ICP-MS, ICP-OES, Coulometer
   * Imaging: SEM, TEM, Raman Spectroscopy, Neutron Scattering
 * Programming Languages:
@@ -39,16 +39,19 @@ Skills
 
 Awards and leadership
 ======
-* President of Chinese Student and Scholar Association at Northwestern (2016-2018)
-* Medill Science Writing Fellow at Northwestern (2018)
+* Agouron Geobiology Fellowship (2022)
+* Sloss Award for Outstanding Teaching, Northwestern (2021)
+* President, Chinese Student and Scholar Association at Northwestern (2016-2018)
+* Contributor, Northwestern Inclusion and Diversity Report (2017/2018)
+* Medill Science Writing Fellow, Northwestern (2018)
 * Northwestern Graduate Fellowship (2015)
-* GSA Research Fellowship (2014)
-* Imperial Barrel Award, AAPG (2014)
-* Cheaspeake Award (2013)
-* Shell Energy Research Grant (2013)
+* Graduate Research Fellowship, Geological Society of America (2014)
+* Imperial Barrel Award, American Association of Petroleum Geologists (2014)
+* Cheaspeake Award, Penn State (2013)
+* Shell Energy Research Grant, Penn State (2013)
 * National Scholarship of China (2011/2010)
 
-Technical Projects
+Technical Projects (Big Data and Machine Learning)
 ======
 * Deterministic Security Log Analysis and Visualization System (Paper accepted in ACM CSS 2020)
 *(Instrumentation-free user-centric attack investigation system with high level semantics by JAVA)*
