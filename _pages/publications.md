@@ -7,7 +7,7 @@ redirect_from:
   - /publications
 ---
 {% include base_path %}
-<sup>+</sup> denotes student author; <sup>#</sup> denotes corresponding author.
+<sup>+</sup> indicates student author; <sup>#</sup> denotes corresponding author.
 
 14) Wei, G., **Wang, J.**, Planavsky, N.J., Zhao, M., Bolton, E. W., Jiang, L., Asael, D., Wei. W., Ling, H.,  *(submitted)* On the origin of Shuram carbon isotope excursion in South China and its implication on Ediacaran atmospheric oxygen levels
 
@@ -21,7 +21,7 @@ redirect_from:
 
 9) **Wang, J.**<sup>#</sup>, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., 2021. Ca and Sr isotopes indicate volcanism-triggered biocalcification crisis during Oceanic Anoxic Event 1a. <a href="https://doi.org/10.1130/G47945.1" style="color: #3BB9FF">Geology</a>.
 
-8) Chen, Y., **Wang, J.**, Zhou Z., Chen X., Zhao Z, Shi P., Han Y., 2020. Ancient Microorganisms and Carotenoid Preserved in Fluid Inclusion in Halite from Chaka Salt Lake, Western China: Evidence from Micro-observation and in situ Raman Spectroscopy. <a href="https://doi.org/10.1111/1755-6724.14618" style="color: #3BB9FF">Acta Geologica Sinica</a>.
+8) Chen, Y., **Wang, J.**<sup>#</sup>, Zhou Z., Chen X., Zhao Z, Shi P., Han Y., 2020. Ancient Microorganisms and Carotenoid Preserved in Fluid Inclusion in Halite from Chaka Salt Lake, Western China: Evidence from Micro-observation and in situ Raman Spectroscopy. <a href="https://doi.org/10.1111/1755-6724.14618" style="color: #3BB9FF">Acta Geologica Sinica</a>.
 
 
 7) **Wang, J.**<sup>#</sup>, Arthur, M.A., 2020. The diagenetic origin and depositional history of the Cherry Valley Member , Middle Devonian Marcellus Formation. <a href="https://doi.org/10.1016/j.chemgeo.2020.119875" style="color: #3BB9FF">Chemical Geology</a>.
