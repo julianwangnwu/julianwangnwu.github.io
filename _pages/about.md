@@ -23,7 +23,7 @@ redirect_from:
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
 
-      <b>2022/04/16</b> I will be giving a talk at Northeastern Geobiology Symposium at MIT.
+      <b>2022/04/16</b> I will be giving a talk in the Northeastern Geobiology Symposium at MIT.
     </p>
 </p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
@@ -32,23 +32,25 @@ redirect_from:
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
       <b>2022/01/04</b> I started Agouron Geobiology Fellowship at Yale.
+      <br>
       <b>2021/11/08</b> I was invited to give a talk at <a href="https://www.montclair.edu/environmental-management-phd/sustainability-seminar-series/" style="color: #3BB9FF">Montclair State University</a>, NJ.
+      <br>
       <b>2021/10/13</b> Attended GSA2021 and gave a talk in Andy Knoll's honorary session. First in-person conference in almost 2 years. Very nice to see many colleagues and good friends.
-<br>
+      <br>
       <b>2021/06/01</b> Won Northwestern 2021 Sloss award.
-<br>
+      <br>
       <b>2021/04/28</b> Gave a talk at the carbonate proxy symposium of the UC Riverside.
-<br>
+      <br>
       <b>2021/04/07</b> Gave a talk at the Yale departmental postdoc seminar. Received lots of good feedbacks on how to give a job talk. Grateful!
-  <br>
+      <br>
       <b>2021/03/09</b> Collected first batch of publication-quality Si isotope data. Excited!
-  <br>
+      <br>
       <b>2021/02/25</b> Fired some laser.
-  <br>
+      <br>
       <b>2021/01/04</b> I joined Yale as a postdoc researcher.
-  <br>
+      <br>
       <b>2020/12/08</b>- Successfully defended my Ph.D. dissertation. Will be moving back to the east coast. A la prochaine, Chicago!
-  <br>
+      <br>
       <b>2020/11/20</b>- Interviewed by Northwestern on climate change and our most recent paper. [<a href="https://news.northwestern.edu/stories/2020/12/volcanic-eruptions-directly-triggered-ocean-acidification-during-early-cretaceous/#:~:text=Volcanic%20eruptions%20directly%20triggered%20ocean%20acidification%20during%20Early%20Cretaceous,-First%20study%20to&text=During%20this%20time%2C%20it%20spewed,seawater%20and%20suffocated%20the%20oceans." style="color: #3BB9FF">News</a>]
   <br>      
       <b>2020/10/29</b>- Gave a talk entitled "Calcium isotope variability across ancient candidate ocean acidification events" at GSA2020. Chaired the same session.
