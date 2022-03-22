@@ -22,7 +22,8 @@ redirect_from:
     <b> Upcoming talks </b>
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-      <b>2021/11/08</b> I am invited to give a talk at <a href="https://www.montclair.edu/environmental-management-phd/sustainability-seminar-series/" style="color: #3BB9FF">Montclair State University</a>, NJ.
+
+      <b>2022/04/16</b> I will be giving a talk at Northeastern Geobiology Symposium at MIT.
     </p>
 </p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
@@ -30,6 +31,8 @@ redirect_from:
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
+      <b>2022/01/04</b> I started Agouron Geobiology Fellowship at Yale.
+      <b>2021/11/08</b> I was invited to give a talk at <a href="https://www.montclair.edu/environmental-management-phd/sustainability-seminar-series/" style="color: #3BB9FF">Montclair State University</a>, NJ.
       <b>2021/10/13</b> Attended GSA2021 and gave a talk in Andy Knoll's honorary session. First in-person conference in almost 2 years. Very nice to see many colleagues and good friends.
 <br>
       <b>2021/06/01</b> Won Northwestern 2021 Sloss award.
