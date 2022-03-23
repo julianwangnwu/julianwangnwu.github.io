@@ -23,7 +23,7 @@ redirect_from:
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
 
-      <b>2022/04/16</b> I will be giving a talk in the Northeastern Geobiology Symposium at MIT.
+      <b>2022/04/16</b> I will be giving a talk at the Northeastern Geobiology Symposium in MIT.
     </p>
 </p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
