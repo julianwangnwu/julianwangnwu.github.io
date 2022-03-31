@@ -35,7 +35,7 @@ redirect_from:
       <br>
       <b>2021/11/08</b> I was invited to give a talk at <a href="https://www.montclair.edu/environmental-management-phd/sustainability-seminar-series/" style="color: #3BB9FF">Montclair State University</a>, NJ.
       <br>
-      <b>2021/10/13</b> Attended GSA2021 and gave a talk in Andy Knoll's honorary session. First in-person conference in almost 2 years. Very nice to see many colleagues and good friends.
+      <b>2021/10/13</b> Attended GSA2021 and gave a talk in Andy Knoll's honorary session. First in-person conference in almost 2 years. Great to see many colleagues and good friends.
       <br>
       <b>2021/06/01</b> Won Northwestern 2021 Sloss award.
       <br>
