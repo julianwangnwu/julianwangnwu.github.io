@@ -11,11 +11,11 @@ redirect_from:
 
 15) Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, *(in review)* A modified surface kinetic model for calcium and strontium isotope fractionation during calcite precipitation. <a href="https://arxiv.org/pdf/2203.11731.pdf" style="color: #3BB9FF">[Preprint]</a>
 
-14) **Wang, J.**<sup>#</sup>, Asael, D., Planavsky, N.J., Tarhan, L. G., *(in revision)* An investigation of factors affecting high-precision Sr isotope analyses <sup>87</sup>Sr/<sup>86</sup>Sr and δ<sup>88/86</sup>Sr by MC-ICP-MS
+14) **Wang, J.**<sup>#</sup>, Asael, D., Planavsky, N.J., Tarhan, L. G., *(in revision)* An investigation of factors affecting high-precision Sr isotope analyses <sup>87</sup>Sr/<sup>86</sup>Sr and δ<sup>88/86</sup>Sr by MC-ICP-MS. <a href="https://arxiv.org/abs/2111.02942" style="color: #3BB9FF">[Preprint]</a>
 
-13) Wei, G., **Wang, J.**, Planavsky, N.J., Zhao, M., Bolton, E. W., Jiang, L., Asael, D., Wei. W., Ling, H.,  *(accepted)* On the origin of Shuram carbon isotope excursion in South China and its implication on Ediacaran atmospheric oxygen levels. Precambrian Research.
+13) **Wang, J.**<sup>#</sup>, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., *(in revision)* δ<sup>44/40</sup>Ca-δ<sup>88/86</sup>Sr multi-proxy constrains primary origin of Marinoan cap carbonates
 
-12) **Wang, J.**<sup>#</sup>, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., *(in revision)* δ<sup>44/40</sup>Ca-δ<sup>88/86</sup>Sr multi-proxy constrains primary origin of Marinoan cap carbonates
+12) Wei, G., **Wang, J.**, Planavsky, N.J., Zhao, M., Bolton, E. W., Jiang, L., Asael, D., Wei. W., Ling, H.,  *(accepted)* On the origin of Shuram carbon isotope excursion in South China and its implication on Ediacaran atmospheric oxygen levels. Precambrian Research.
 
 11) Dong, Y.<sup>+</sup>, Cui, Y., **Wang, J.**<sup>#</sup>, Zheng, F., Wu, Y., Jiang, S., Li Z., 2021. Paleozoic carbon cycle dynamics Insights from stable carbon isotopes in carbonate and C3 land plants. <a href="https://doi.org/10.1016/j.earscirev.2021.103813" style="color: #3BB9FF">Earth Science Reviews</a>.
 
