@@ -15,7 +15,7 @@ redirect_from:
 
 13) **Wang, J.**<sup>#</sup>, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., *(in revision)* δ<sup>44/40</sup>Ca-δ<sup>88/86</sup>Sr multi-proxy constrains primary origin of Marinoan cap carbonates <a href="https://arxiv.org/pdf/2204.02563.pdf" style="color: #3BB9FF">[Preprint]</a>
 
-12) Wei, G., **Wang, J.**, Planavsky, N.J., Zhao, M., Bolton, E. W., Jiang, L., Asael, D., Wei. W., Ling, H.,  *(accepted)* On the origin of Shuram carbon isotope excursion in South China and its implication on Ediacaran atmospheric oxygen levels. <a href="https://doi.org/10.1016/j.precamres.2022.106673" style="color: #3BB9FF">Precambrian Research</a>.
+12) Wei, G., **Wang, J.**, Planavsky, N.J., Zhao, M., Bolton, E. W., Jiang, L., Asael, D., Wei. W., Ling, H.,  2022. On the origin of Shuram carbon isotope excursion in South China and its implication on Ediacaran atmospheric oxygen levels. <a href="https://doi.org/10.1016/j.precamres.2022.106673" style="color: #3BB9FF">Precambrian Research</a>.
 
 11) Dong, Y.<sup>+</sup>, Cui, Y., **Wang, J.**<sup>#</sup>, Zheng, F., Wu, Y., Jiang, S., Li Z., 2021. Paleozoic carbon cycle dynamics Insights from stable carbon isotopes in carbonate and C3 land plants. <a href="https://doi.org/10.1016/j.earscirev.2021.103813" style="color: #3BB9FF">Earth Science Reviews</a>.
 
