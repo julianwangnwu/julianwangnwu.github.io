@@ -23,7 +23,9 @@ redirect_from:
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
 
-      <b>2022/10/9-12</b> I will be chairing a session titled "T75. Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings" at GSA2022 in Denver, Colorado. Hope to see you there.
+      <b>2022/10/9-12</b> I will be chairing a session titled <b>"T75. Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings"</b> at GSA2022 in Denver, Colorado. Hope to see you there.
+      <br>
+      <b>2022/10/10</b> I will be giving an invited talk in the session "T105. Dynamics of Earth’s Climate System and Biogeochemical Cycles in Deep Time" at GSA2022 in Denver, Colorado.
     </p>
 </p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
