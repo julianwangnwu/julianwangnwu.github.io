@@ -34,6 +34,7 @@ redirect_from:
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
       <b>2022/04/16</b> I attended the Northeastern Geobiology Symposium at MIT and presented my most recent work on carbonate factory.
+      <br>
       <b>2022/01/04</b> I started Agouron Geobiology Fellowship at Yale.
       <br>
       <b>2021/11/08</b> I was invited to give a talk at <a href="https://www.montclair.edu/environmental-management-phd/sustainability-seminar-series/" style="color: #3BB9FF">Montclair State University</a>, NJ.
