@@ -9,7 +9,9 @@ redirect_from:
 {% include base_path %}
 <sup>+</sup> indicates student author; <sup>#</sup> denotes corresponding author.
 
-15) Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, *(in review)* A modified surface kinetic model for calcium and strontium isotope fractionation during calcite precipitation. <a href="https://arxiv.org/pdf/2203.11731.pdf" style="color: #3BB9FF">[Preprint]</a>
+16) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(submitted)* Increased climate instability prior to and during the PETM.
+
+15) Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, *(in revision)* A modified surface kinetic model for calcium and strontium isotope fractionation during calcite precipitation. <a href="https://arxiv.org/pdf/2203.11731.pdf" style="color: #3BB9FF">[Preprint]</a>
 
 14) **Wang, J.**<sup>#</sup>, Asael, D., Planavsky, N.J., Tarhan, L. G., *(in revision)* An investigation of factors affecting high-precision Sr isotope analyses <sup>87</sup>Sr/<sup>86</sup>Sr and δ<sup>88/86</sup>Sr by MC-ICP-MS. <a href="https://arxiv.org/abs/2111.02942" style="color: #3BB9FF">[Preprint]</a>
 
