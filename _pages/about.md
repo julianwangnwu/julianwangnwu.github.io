@@ -23,7 +23,7 @@ redirect_from:
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
 
-      <b>2022/10/9-12</b> I will be giving a talk at AGU2022 in Chicago. Hope to see you there.
+      <b>2022/12/11</b> I will be giving a talk at AGU2022 in Chicago. Hope to see you there.
       <br>
     </p>
 </p>
@@ -33,6 +33,7 @@ redirect_from:
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
       <b>2022/10/13</b> I gave an invited talk in the session "T105. Dynamics of Earth’s Climate System and Biogeochemical Cycles in Deep Time" at GSA2022 in Denver, Colorado.
+      <br>
       <b>2022/10/9-12</b> I chaired a session titled <b>"T75. Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings"</b> at GSA2022 in Denver, Colorado. Hope to see you there.
       <br>
       <b>2022/04/16</b> I attended the Northeastern Geobiology Symposium at MIT and presented my most recent work on carbonate factory.
