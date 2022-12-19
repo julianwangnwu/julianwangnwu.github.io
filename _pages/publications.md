@@ -9,7 +9,9 @@ redirect_from:
 {% include base_path %}
 <sup>+</sup> indicates student author; <sup>#</sup> denotes corresponding author.
 
-16) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(submitted)* Increased climate instability prior to and during the PETM.
+17) **Wang, J.**<sup>#</sup>, Tarhan, L.<sup>#</sup>, Jacobson, A., Oehlert, A., Planavsky, N., *(accepted)* The evolution of the marine carbonate factory.
+
+16) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
 
 15) Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, *(in revision)* A modified surface kinetic model for calcium and strontium isotope fractionation during calcite precipitation. <a href="https://arxiv.org/pdf/2203.11731.pdf" style="color: #3BB9FF">[Preprint]</a>
 
