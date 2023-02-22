@@ -40,11 +40,11 @@ Skills
 Awards and leadership
 ======
 * Agouron Geobiology Fellowship (2022)
-* Sloss Award for Outstanding Teaching, Northwestern (2021)
+* Sloss Award, Northwestern (2021)
 * President, Chinese Student and Scholar Association at Northwestern (2016-2018)
 * Contributor, Northwestern Inclusion and Diversity Report (2017/2018)
 * Medill Science Writing Fellow, Northwestern (2018)
-* Northwestern Graduate Fellowship (2015)
+* Northwestern Outstanding Graduate Fellowship (2015)
 * Graduate Research Fellowship, Geological Society of America (2014)
 * Imperial Barrel Award, American Association of Petroleum Geologists (2014)
 * Cheaspeake Award, Penn State (2013)
