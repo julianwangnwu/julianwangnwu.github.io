@@ -23,8 +23,7 @@ redirect_from:
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
 
-      <b>2023/04/10</b> I will be giving an invited talk in the Department of Marine Geosciences, University of Miami.
-      <br>
+      <b>2023/07/25</b> The abstract submission deadline of the GSA2023 Annual Meeting is July 25th. Please consider to submit a contribution to our session <a href="https://community.geosociety.org/gsa2023/program/technical/topical" style="color: #3BB9FF">"T91. Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings." </a> Hope to see you in Pittsburgh!
     </p>
 </p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
@@ -32,10 +31,13 @@ redirect_from:
 </p>
 
 <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
+
+      <b>2023/05</b> I gave a series of invited talks in China. Great seeing all good friends and colleagues after such a long time! <br>
+      <b>2023/04/10</b> I gave an invited talk for University of Miami. Thanks for the hospitality and all good comments. <br>
       <b>2022/12/11</b> I gave a talk at AGU2022 in Chicago. <br>
       <b>2022/10/13</b> I gave an invited talk in the session "T105. Dynamics of Earth’s Climate System and Biogeochemical Cycles in Deep Time" at GSA2022 in Denver, Colorado.
       <br>
-      <b>2022/10/9-12</b> I chaired a session titled <b>"T75. Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings"</b> at GSA2022 in Denver, Colorado. Hope to see you there.
+      <b>2022/10/9-12</b> I chaired a session titled <b>"T75. Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings"</b> at GSA2022 in Denver, Colorado.
       <br>
       <b>2022/04/16</b> I attended the Northeastern Geobiology Symposium at MIT and presented my most recent work on carbonate factory.
       <br>

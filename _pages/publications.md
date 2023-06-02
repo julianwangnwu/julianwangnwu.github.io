@@ -11,13 +11,13 @@ redirect_from:
 
 19) **Wang, J.**<sup>#</sup>, Tarhan, L.<sup>#</sup>, Jacobson, A., Oehlert, A., Planavsky, N., 2023. The evolution of the marine carbonate factory. <a href="https://www.nature.com/articles/s41586-022-05654-5" style="color: #3BB9FF">Nature</a>
 
-18) Chiaravalloti, I., Theunissen, N., Zhang, S., **Wang, J.**, Sun, F., Ahmed, A., Pihlap, E., Reinhard, C., and Planavsky, N. *(in review)* Mitigation of soil nitrous oxide emissions during maize production with basalt amendments.
+18) Chiaravalloti, I., Theunissen, N., Zhang, S., **Wang, J.**, Sun, F., Ahmed, A., Pihlap, E., Reinhard, C., and Planavsky, N. *(in revision)* Mitigation of soil nitrous oxide emissions during maize production with basalt amendments.
 
 17) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
 
 16) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
 
-15) Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, *(in revision)* A modified surface kinetic model for calcium and strontium isotope fractionation during calcite precipitation. <a href="https://arxiv.org/pdf/2203.11731.pdf" style="color: #3BB9FF">[Preprint]</a>
+15) Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, *(submitted)* Quantification of classical and non-classical crystallization pathways in calcite precipitation <a href="https://arxiv.org/pdf/2203.11731.pdf" style="color: #3BB9FF">[Preprint]</a>
 
 14) **Wang, J.**<sup>#</sup>, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., 2023. δ<sup>44/40</sup>Ca-δ<sup>88/86</sup>Sr multi-proxy constrains primary origin of Marinoan cap carbonates <a href="https://doi.org/10.1016/j.gca.2023.04.023" style="color: #3BB9FF">Geochimica et Cosmochimica Acta</a>
 
