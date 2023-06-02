@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: ""
-permalink: /News Archive/
+permalink: /newsarchive/
 author_profile: true
 redirect_from:
   - /newsarchive.html
