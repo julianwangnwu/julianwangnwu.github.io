@@ -24,13 +24,17 @@ redirect_from:
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
 
       <b>[2023/07/25]</b> The abstract submission deadline of the GSA2023 Annual Meeting is July 25th. Please consider to submit a contribution to our session <a href="https://community.geosociety.org/gsa2023/program/technical/topical" style="color: #3BB9FF">"T91. Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings." </a> Hope to see you in Pittsburgh!
+      
     </p>
 </p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
     <b> News </b>
     <br>
+    <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
+
       <b>[2023/05]</b> I gave a series of invited talks in China. Great seeing all good friends and colleagues after such a long time! <br>
       <b>[2023/04/10]</b> I gave an invited talk for University of Miami. Thanks for the hospitality and all good comments. <br>
+
     </p>
 </p>
 
