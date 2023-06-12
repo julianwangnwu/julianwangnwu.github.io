@@ -11,7 +11,7 @@ redirect_from:
 
 19) **Wang, J.**<sup>#</sup>, Tarhan, L.<sup>#</sup>, Jacobson, A., Oehlert, A., Planavsky, N., 2023. The evolution of the marine carbonate factory. <a href="https://www.nature.com/articles/s41586-022-05654-5" style="color: #3BB9FF">Nature</a>
 
-18) Chiaravalloti, I., Theunissen, N., Zhang, S., **Wang, J.**, Sun, F., Ahmed, A., Pihlap, E., Reinhard, C., and Planavsky, N. *(in revision)* Mitigation of soil nitrous oxide emissions during maize production with basalt amendments.
+18) Chiaravalloti, I., Theunissen, N., Zhang, S., **Wang, J.**, Sun, F., Ahmed, A., Pihlap, E., Reinhard, C., and Planavsky, N. *(accepted)* Mitigation of soil nitrous oxide emissions during maize production with basalt amendments.
 
 17) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
 
