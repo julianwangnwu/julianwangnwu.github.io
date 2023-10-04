@@ -19,7 +19,7 @@ redirect_from:
 
 16) Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, *(in revision)* Quantification of classical and non-classical crystallization pathways in calcite precipitation <a href="https://arxiv.org/pdf/2203.11731.pdf" style="color: #3BB9FF">[Preprint]</a>
 
-15）Wang, J. 2023. New proxy reveals the peculiar Ediacaran phosphorus cycle (in Chinese).<a href="https://doi.org/10.1360/TB-2023-0624" style="color: #3BB9FF">Chinese Science Bulletin</a>
+15）**Wang, J.**<sup>#</sup> 2023. New proxy reveals the peculiar Ediacaran phosphorus cycle (in Chinese).<a href="https://doi.org/10.1360/TB-2023-0624" style="color: #3BB9FF">Chinese Science Bulletin</a>
 
 14) **Wang, J.**<sup>#</sup>, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., 2023. δ<sup>44/40</sup>Ca-δ<sup>88/86</sup>Sr multi-proxy constrains primary origin of Marinoan cap carbonates <a href="https://doi.org/10.1016/j.gca.2023.04.023" style="color: #3BB9FF">Geochimica et Cosmochimica Acta</a>
 

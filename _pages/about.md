@@ -23,7 +23,9 @@ redirect_from:
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
 
-      <b>[2023/10/15-18]</b> I will be convening a topical session at GSA2023 <a href="https://community.geosociety.org/gsa2023/program/technical/topical" style="color: #3BB9FF">"T91. Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings." </a> Hope to see you in Pittsburgh!
+      <b>[2023/10/15-18]</b> I will be convening a topical session at GSA2023 <a href="https://community.geosociety.org/gsa2023/program/technical/topical" style="color: #3BB9FF">"T91. Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings." </a> Hope to see you in Pittsburgh! <br>
+
+      <b>[2023/10/16]</b> I will be giving a talk at GSA2023.
 
     </p>
 </p>
