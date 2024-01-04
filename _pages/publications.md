@@ -13,21 +13,21 @@ redirect_from:
 
 21) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., *(in review)* International collaboration in geoscience lags behind other subjects.
 
-20) **Wang, J.**<sup>#</sup>, Tarhan, L.<sup>#</sup>, Jacobson, A., Oehlert, A., Planavsky, N., 2023. The evolution of the marine carbonate factory. <a href="https://www.nature.com/articles/s41586-022-05654-5" style="color: #3BB9FF">Nature</a>
+20) **Wang, J.**<sup>#</sup>, Tarhan, L.<sup>#</sup>, Jacobson, A., Oehlert, A., Planavsky, N., 2023. The evolution of the marine carbonate factory. <a href="https://www.nature.com/articles/s41586-022-05654-5" style="color: #3BB9FF">Nature</a>.
 
-19) Chiaravalloti, I., Theunissen, N., Zhang, S., **Wang, J.**, Sun, F., Ahmed, A., Pihlap, E., Reinhard, C., and Planavsky, N., 2023  Mitigation of soil nitrous oxide emissions during maize production with basalt amendments. <a href="https://doi.org/10.3389/fclim.2023.1203043" style="color: #3BB9FF">Frontiers in Climate</a>
+19) Chiaravalloti, I., Theunissen, N., Zhang, S., **Wang, J.**, Sun, F., Ahmed, A., Pihlap, E., Reinhard, C., and Planavsky, N., 2023  Mitigation of soil nitrous oxide emissions during maize production with basalt amendments. <a href="https://doi.org/10.3389/fclim.2023.1203043" style="color: #3BB9FF">Frontiers in Climate</a>.
 
 18) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
 
 17) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
 
-16) Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, *(in revision)* Quantification of classical and non-classical crystallization pathways in calcite precipitation <a href="https://arxiv.org/pdf/2203.11731.pdf" style="color: #3BB9FF">[Preprint]</a>
+16) Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, *(in revision)* Quantification of classical and non-classical crystallization pathways in calcite precipitation <a href="https://arxiv.org/pdf/2203.11731.pdf" style="color: #3BB9FF">[Preprint]</a>.
 
-15) **Wang, J.**<sup>#</sup> 2023. New proxy reveals the peculiar Ediacaran phosphorus cycle (in Chinese).<a href="https://doi.org/10.1360/TB-2023-0624" style="color: #3BB9FF">Chinese Science Bulletin</a>
+15) **Wang, J.**<sup>#</sup> 2023. New proxy reveals the peculiar Ediacaran phosphorus cycle (in Chinese). <a href="https://doi.org/10.1360/TB-2023-0624" style="color: #3BB9FF">Chinese Science Bulletin</a>.
 
-14) **Wang, J.**<sup>#</sup>, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., 2023. δ<sup>44/40</sup>Ca-δ<sup>88/86</sup>Sr multi-proxy constrains primary origin of Marinoan cap carbonates <a href="https://doi.org/10.1016/j.gca.2023.04.023" style="color: #3BB9FF">Geochimica et Cosmochimica Acta</a>
+14) **Wang, J.**<sup>#</sup>, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., 2023. δ<sup>44/40</sup>Ca-δ<sup>88/86</sup>Sr multi-proxy constrains primary origin of Marinoan cap carbonates. <a href="https://doi.org/10.1016/j.gca.2023.04.023" style="color: #3BB9FF">Geochimica et Cosmochimica Acta</a>.
 
-13) **Wang, J.**<sup>#</sup>, Asael, D., Planavsky, N.J., Tarhan, L. G., 2023. An investigation of factors affecting high-precision Sr isotope analyses <sup>87</sup>Sr/<sup>86</sup>Sr and δ<sup>88/86</sup>Sr by MC-ICP-MS. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0009254123000657" style="color: #3BB9FF">Chemical Geology</a>
+13) **Wang, J.**<sup>#</sup>, Asael, D., Planavsky, N.J., Tarhan, L. G., 2023. An investigation of factors affecting high-precision Sr isotope analyses <sup>87</sup>Sr/<sup>86</sup>Sr and δ<sup>88/86</sup>Sr by MC-ICP-MS. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0009254123000657" style="color: #3BB9FF">Chemical Geology</a>.
 
 12) Wei, G., **Wang, J.**, Planavsky, N.J., Zhao, M., Bolton, E. W., Jiang, L., Asael, D., Wei. W., Ling, H.,  2022. On the origin of Shuram carbon isotope excursion in South China and its implication on Ediacaran atmospheric oxygen levels. <a href="https://doi.org/10.1016/j.precamres.2022.106673" style="color: #3BB9FF">Precambrian Research</a>.
 
