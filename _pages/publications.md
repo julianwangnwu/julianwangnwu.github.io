@@ -9,6 +9,10 @@ redirect_from:
 {% include base_path %}
 <sup>+</sup> indicates student author; <sup>#</sup> denotes corresponding author.
 
+22) Suhrhoff T. J., Reershemius T., **Wang, J.**, Jordan, J. S., Reinhard, C. T., Planavsky, N. J., *(in revision)* Assessing the feasibility of soil-based mass balance approaches to quantify CO2 removal from enhanced rock weathering for soils of the contiguous USA.
+
+21) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., *(in review)* International collaboration in geoscience lags behind other subjects.
+
 20) **Wang, J.**<sup>#</sup>, Tarhan, L.<sup>#</sup>, Jacobson, A., Oehlert, A., Planavsky, N., 2023. The evolution of the marine carbonate factory. <a href="https://www.nature.com/articles/s41586-022-05654-5" style="color: #3BB9FF">Nature</a>
 
 19) Chiaravalloti, I., Theunissen, N., Zhang, S., **Wang, J.**, Sun, F., Ahmed, A., Pihlap, E., Reinhard, C., and Planavsky, N., 2023  Mitigation of soil nitrous oxide emissions during maize production with basalt amendments. <a href="https://doi.org/10.3389/fclim.2023.1203043" style="color: #3BB9FF">Frontiers in Climate</a>
