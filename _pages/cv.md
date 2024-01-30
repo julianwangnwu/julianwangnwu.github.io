@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D, Northwestern University, 2021
-* M.S., Penn State University, 2014
+* Ph.D, Northwestern University, 2020 (2021 conferred)
+* M.S., Penn State University, 2014 (2015 conferred)
 * B.E., China University of Petroleum, 2012
 
 Work experience
