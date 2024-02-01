@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 <sup>+</sup> indicates student author; <sup>#</sup> denotes corresponding author.
 
-23) Dong, Y., Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., *(in revision)* Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM
+23) Dong, Y., Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., *(in revision)* Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM.
 
 22) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., *(in review)* International collaboration in geoscience lags behind other subjects.
 
