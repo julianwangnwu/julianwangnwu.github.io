@@ -23,7 +23,9 @@ redirect_from:
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
       <b>[2024/06/17]</b> I will be giving an invited talk on the 2024 North American Paleontological Convention at University of Michigan.
-      <b>[2024/09/22-25]</b> I will be convening a topical session at GSA2024 with Dr. Jordan Wostbrock and Dr. Yi Wang <a href="https://community.geosociety.org/gsa2024/home" style="color: #3BB9FF">" Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings." </a> It will be our 4th consecutive year convening the same session. Hope to see you all in Anaheim, California!<br>
+      <br>
+      <b>[2024/09/22-25]</b> I will be convening a topical session at GSA2024 with Dr. Jordan Wostbrock and Dr. Yi Wang <a href="https://community.geosociety.org/gsa2024/home" style="color: #3BB9FF">" Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings." </a> It will be our 4th consecutive year convening the same session. Hope to see you all in Anaheim, California!
+      <br>
 
     </p>
 </p>
@@ -31,7 +33,7 @@ redirect_from:
     <b> News </b>
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
-      <b>[2023/12/20]</b> I gave an invited talk at Tongji University.
+      <b>[2023/12/20]</b> I gave an invited talk at Tongji University.<br>
       <b>[2023/10/15-18]</b> I chaired a topical session at GSA2023 <a href="https://community.geosociety.org/gsa2023/program/technical/topical" style="color: #3BB9FF">"T91. Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings." </a> <br>
       <b>[2023/10/16]</b> I gave a talk at GSA2023 on early diagenetic effect of stable strontium isotopes in shallow marine carbonates. <br>
       <b>[2023/05]</b> I gave a series of invited talks in China. Great seeing all good friends and colleagues after such a long time! <br>
