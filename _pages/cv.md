@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* Yale University (2021 - Now): Postdoctoral Researcher
+* Peking University (2024 - Now): Assistant Professor
+* Yale University (2021 - 2023): Postdoctoral Researcher
 * Northwestern University (2015 - 2020): Research and Teaching Assistant
 * Penn State University (2012 - 2014): Research Fellow
 * Industry: EQT(2014 - 2015)
