@@ -11,13 +11,13 @@ redirect_from:
 
 23) Dong, Y., Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., *(in revision)* Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM.
 
-22) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., *(in review)* International collaboration in geoscience lags behind other subjects.
+22) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., *(in revision)* International collaboration in geoscience lags behind other subjects.
 
 21) Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, *(in revision)* Quantification of classical and non-classical crystallization pathways in calcite precipitation <a href="https://arxiv.org/pdf/2203.11731.pdf" style="color: #3BB9FF">[Preprint]</a>.
 
-20) Suhrhoff T. J., Reershemius T., **Wang, J.**, Jordan, J. S., Reinhard, C. T., Planavsky, N. J., *(in revision)* Assessing the feasibility of soil-based mass balance approaches to quantify CO2 removal from enhanced rock weathering for soils of the contiguous USA.
+20) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
 
-19) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
+19) Suhrhoff T. J., Reershemius T., **Wang, J.**, Jordan, J. S., Reinhard, C. T., Planavsky, N. J., *(accepted)* Assessing the feasibility of soil-based mass balance approaches to quantify CO2 removal from enhanced rock weathering for soils of the contiguous USA. <a href="https://www.frontiersin.org/articles/10.3389/fclim.2024.1346117/abstract" style="color: #3BB9FF">Frontiers in Climate</a>.
 
 18) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
 
