@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 <sup>+</sup> indicates student author; <sup>#</sup> denotes corresponding author.
 
-<b>*Pipeline*</b>
+<b>*---Research Publication Pipeline---*</b>
 
 23) Dong, Y., Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., *(in revision)* Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM.
 
@@ -21,7 +21,7 @@ redirect_from:
 
 19) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
 
-<b>*Peer Reviewed*</b>
+<b>*---Peer Reviewed Articles---*</b>
 
 18) Suhrhoff T. J., Reershemius T., **Wang, J.**, Jordan, J. S., Reinhard, C. T., Planavsky, N. J., 2024. Assessing the feasibility of soil-based mass balance approaches to quantify CO2 removal from enhanced rock weathering for soils of the contiguous USA. <a href="https://www.frontiersin.org/articles/10.3389/fclim.2024.1346117/abstract" style="color: #3BB9FF">Frontiers in Climate</a>.
 
