@@ -9,19 +9,23 @@ redirect_from:
 {% include base_path %}
 <sup>+</sup> indicates student author; <sup>#</sup> denotes corresponding author.
 
+<b>*Pipeline*</b>
+
 23) Dong, Y., Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., *(in revision)* Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM.
 
 22) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., *(in revision)* International collaboration in geoscience lags behind other subjects.
 
 21) Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, *(in revision)* Quantification of classical and non-classical crystallization pathways in calcite precipitation <a href="https://arxiv.org/pdf/2203.11731.pdf" style="color: #3BB9FF">[Preprint]</a>.
 
-20) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
+20) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
 
-19) Suhrhoff T. J., Reershemius T., **Wang, J.**, Jordan, J. S., Reinhard, C. T., Planavsky, N. J., *(accepted)* Assessing the feasibility of soil-based mass balance approaches to quantify CO2 removal from enhanced rock weathering for soils of the contiguous USA. <a href="https://www.frontiersin.org/articles/10.3389/fclim.2024.1346117/abstract" style="color: #3BB9FF">Frontiers in Climate</a>.
+19) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
 
-18) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
+<b>*Peer Reviewed*</b>
 
-17) Chiaravalloti, I., Theunissen, N., Zhang, S., **Wang, J.**, Sun, F., Ahmed, A., Pihlap, E., Reinhard, C., and Planavsky, N., 2023  Mitigation of soil nitrous oxide emissions during maize production with basalt amendments. <a href="https://doi.org/10.3389/fclim.2023.1203043" style="color: #3BB9FF">Frontiers in Climate</a>.
+18) Suhrhoff T. J., Reershemius T., **Wang, J.**, Jordan, J. S., Reinhard, C. T., Planavsky, N. J., 2024. Assessing the feasibility of soil-based mass balance approaches to quantify CO2 removal from enhanced rock weathering for soils of the contiguous USA. <a href="https://www.frontiersin.org/articles/10.3389/fclim.2024.1346117/abstract" style="color: #3BB9FF">Frontiers in Climate</a>.
+
+17) Chiaravalloti, I., Theunissen, N., Zhang, S., **Wang, J.**, Sun, F., Ahmed, A., Pihlap, E., Reinhard, C., and Planavsky, N., 2023.  Mitigation of soil nitrous oxide emissions during maize production with basalt amendments. <a href="https://doi.org/10.3389/fclim.2023.1203043" style="color: #3BB9FF">Frontiers in Climate</a>.
 
 16) **Wang, J.**<sup>#</sup>, Tarhan, L.<sup>#</sup>, Jacobson, A., Oehlert, A., Planavsky, N., 2023. The evolution of the marine carbonate factory. <a href="https://www.nature.com/articles/s41586-022-05654-5" style="color: #3BB9FF">Nature</a>.
 
