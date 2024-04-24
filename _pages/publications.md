@@ -17,11 +17,11 @@ redirect_from:
 
 21) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
 
-20) Dong, Y., Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., *(accepted)* Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM.
+20) Dong, Y.<sup>+</sup>, Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., *(accepted)* Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM.
 
 <b>*---Peer Reviewed Articles---*</b>
 
-19）Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, 2024 Quantification of classical and non-classical crystallization pathways in calcite precipitation <a href="https://doi.org/10.1016/j.epsl.2024.118712" style="color: #3BB9FF">Earth and Planetary Science Letters</a>.
+19）Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, 2024 Quantification of classical and non-classical crystallization pathways in calcite precipitation. <a href="https://doi.org/10.1016/j.epsl.2024.118712" style="color: #3BB9FF">Earth and Planetary Science Letters</a>.
 
 18) Suhrhoff T. J., Reershemius T., **Wang, J.**, Jordan, J. S., Reinhard, C. T., Planavsky, N. J., 2024. Assessing the feasibility of soil-based mass balance approaches to quantify CO2 removal from enhanced rock weathering for soils of the contiguous USA. <a href="https://www.frontiersin.org/articles/10.3389/fclim.2024.1346117/abstract" style="color: #3BB9FF">Frontiers in Climate</a>.
 
