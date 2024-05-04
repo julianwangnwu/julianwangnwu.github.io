@@ -23,6 +23,7 @@ redirect_from:
     <br>
     <p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">
       <b>[2024/05/18]</b> I will be giving an invited talk in Guangdong Province.
+      <br>
       <b>[2024/06/17]</b> I will be giving an invited talk on the 2024 North American Paleontological Convention at University of Michigan.
       <br>
       <b>[2024/09/22-25]</b> I will be convening a topical session at GSA2024 with Dr. Jordan Wostbrock and Dr. Yi Wang <a href="https://community.geosociety.org/gsa2024/home" style="color: #3BB9FF">" Advances in Non-Traditional Stable Isotope Measurements and Utility as Proxies in Modern and Paleo-Settings." </a> It will be our 4th consecutive year convening the same session. Hope to see you all in Anaheim, California!
