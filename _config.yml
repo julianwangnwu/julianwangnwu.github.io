@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiuyuan (Julian) Wang"
+title                    : "Jiuyuan (Julian) Wang 王久源"
 title_separator          : "-"
-name                     : "Jiuyuan Wang"
+name                     : "Jiuyuan Wang 王久源"
 description              : "Personal website"
 url                      :  # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
