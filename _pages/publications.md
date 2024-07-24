@@ -11,9 +11,11 @@ redirect_from:
 
 <b>*---Research Publication Pipeline---*</b>
 
-25）Dong, Y.<sup>+</sup>, **Wang, J.**<sup>#</sup>, Zhong, Y., Chen, A., Zheng, R., Zhu, P., Zhang, C., Han, Z., and Cui，Y. *(submitted)* The paleoenvironmental evolution of the Cambrian Miaoling Epoch in South China.
+26) Dong, Y.<sup>+</sup>, **Wang, J.**<sup>#</sup>, Zhong, Y., Chen, A., Zheng, R., Zhu, P., Zhang, C., Han, Z., and Cui，Y. *(submitted)* The paleoenvironmental evolution of the Cambrian Miaoling Epoch in South China.
 
-24) Nsingi, J. M. , Cepin, E., Beaty, B., Planavsky, N., Wu, Q., Adloff, M., **Wang, J.**, Selby, D., Liu, Z., Dong, Y., Jiang, S., Zhu, F., and Cui, Y., *(submitted)* Changes in continental weathering across the Permian-Triassic transition: A global review.
+25) Nsingi, J. M. , Cepin, E., Beaty, B., Planavsky, N., Wu, Q., Adloff, M., **Wang, J.**, Selby, D., Liu, Z., Dong, Y., Jiang, S., Zhu, F., and Cui, Y., *(submitted)* Changes in continental weathering across the Permian-Triassic transition: A global review.
+
+24) Kalderon-Asael, B., **Wang, J.**<sup>#</sup>, Planavsky, N. J., Reid, R. P., Vitek, B. E., Oehlert, A. M., Tarhan, L. G. *(in revision)* Evaluation of early diagenetic signatures of lithium and stable strontium isotopes in shallow marine carbonate sediments.
 
 23) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., *(in revision)* International collaboration in geoscience lags behind other subjects.
 
@@ -25,7 +27,7 @@ redirect_from:
 
 20) Dong, Y.<sup>+</sup>, Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., 2024 Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM. <a href="https://doi.org/10.1016/j.palaeo.2024.112234" style="color: #3BB9FF">Palaeogeography, Palaeoclimatology, Palaeoecology</a>.
 
-19）Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, 2024 Quantification of classical and non-classical crystallization pathways in calcite precipitation. <a href="https://doi.org/10.1016/j.epsl.2024.118712" style="color: #3BB9FF">Earth and Planetary Science Letters</a>.
+19) Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, 2024 Quantification of classical and non-classical crystallization pathways in calcite precipitation. <a href="https://doi.org/10.1016/j.epsl.2024.118712" style="color: #3BB9FF">Earth and Planetary Science Letters</a>.
 
 18) Suhrhoff T. J., Reershemius T., **Wang, J.**, Jordan, J. S., Reinhard, C. T., Planavsky, N. J., 2024. Assessing the feasibility of soil-based mass balance approaches to quantify CO2 removal from enhanced rock weathering for soils of the contiguous USA. <a href="https://www.frontiersin.org/articles/10.3389/fclim.2024.1346117/abstract" style="color: #3BB9FF">Frontiers in Climate</a>.
 
