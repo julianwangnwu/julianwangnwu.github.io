@@ -11,15 +11,19 @@ redirect_from:
 
 <b>*---Research Publication Pipeline---*</b>
 
+25）Dong, Y.<sup>+</sup>, **Wang, J.**<sup>#</sup>, Zhong, Y., Chen, A., Zheng, R., Zhu, P., Zhang, C., Han, Z., and Cui，Y. *(submitted)* The paleoenvironmental evolution of the Cambrian Miaoling Epoch in South China.
+
+24) Nsingi, J. M. , Cepin, E., Beaty, B., Planavsky, N., Wu, Q., Adloff, M., **Wang, J.**, Selby, D., Liu, Z., Dong, Y., Jiang, S., Zhu, F., and Cui, Y., *(submitted)* Changes in continental weathering across the Permian-Triassic transition: A global review.
+
 23) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., *(in revision)* International collaboration in geoscience lags behind other subjects.
 
 22) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
 
 21) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
 
-20) Dong, Y.<sup>+</sup>, Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., *(accepted)* Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM.
-
 <b>*---Peer Reviewed Articles---*</b>
+
+20) Dong, Y.<sup>+</sup>, Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., *(accepted)* Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM. <a href="https://doi.org/10.1016/j.palaeo.2024.112234" style="color: #3BB9FF">Palaeogeography, Palaeoclimatology, Palaeoecology</a>.
 
 19）Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, 2024 Quantification of classical and non-classical crystallization pathways in calcite precipitation. <a href="https://doi.org/10.1016/j.epsl.2024.118712" style="color: #3BB9FF">Earth and Planetary Science Letters</a>.
 
@@ -44,7 +48,6 @@ redirect_from:
 9) **Wang, J.**<sup>#</sup>, Jacobson, A.D., Sageman, B.B., Hurtgen, M. T., 2021. Ca and Sr isotopes indicate volcanism-triggered biocalcification crisis during Oceanic Anoxic Event 1a. <a href="https://doi.org/10.1130/G47945.1" style="color: #3BB9FF">Geology</a>.
 
 8) Chen, Y., **Wang, J.**<sup>#</sup>, Zhou Z., Chen X., Zhao Z, Shi P., Han Y., 2020. Ancient Microorganisms and Carotenoid Preserved in Fluid Inclusion in Halite from Chaka Salt Lake, Western China: Evidence from Micro-observation and in situ Raman Spectroscopy. <a href="https://doi.org/10.1111/1755-6724.14618" style="color: #3BB9FF">Acta Geologica Sinica</a>.
-
 
 7) **Wang, J.**<sup>#</sup>, Arthur, M.A., 2020. The diagenetic origin and depositional history of the Cherry Valley Member , Middle Devonian Marcellus Formation. <a href="https://doi.org/10.1016/j.chemgeo.2020.119875" style="color: #3BB9FF">Chemical Geology</a>.
 
