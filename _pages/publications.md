@@ -23,7 +23,7 @@ redirect_from:
 
 <b>*---Peer Reviewed Articles---*</b>
 
-20) Dong, Y.<sup>+</sup>, Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., *(accepted)* Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM. <a href="https://doi.org/10.1016/j.palaeo.2024.112234" style="color: #3BB9FF">Palaeogeography, Palaeoclimatology, Palaeoecology</a>.
+20) Dong, Y.<sup>+</sup>, Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., 2024 Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM. <a href="https://doi.org/10.1016/j.palaeo.2024.112234" style="color: #3BB9FF">Palaeogeography, Palaeoclimatology, Palaeoecology</a>.
 
 19）Zhang, Z.<sup>+</sup> and **Wang, J.**<sup>#</sup>, 2024 Quantification of classical and non-classical crystallization pathways in calcite precipitation. <a href="https://doi.org/10.1016/j.epsl.2024.118712" style="color: #3BB9FF">Earth and Planetary Science Letters</a>.
 
