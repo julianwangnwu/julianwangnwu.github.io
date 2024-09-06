@@ -11,7 +11,9 @@ redirect_from:
 
 <b>*---Research Publication Pipeline---*</b>
 
-26) Dong, Y.<sup>+</sup>, **Wang, J.**<sup>#</sup>, Zhong, Y., Chen, A., Zheng, R., Zhu, P., Zhang, C., Han, Z., and Cui，Y. *(submitted)* The paleoenvironmental evolution of the Cambrian Miaoling Epoch in South China.
+27) Liu, Q., Chen, J., **Wang, J.**, Sun R., Li, P., Wu, X., Xu, H., Huang, X., Meng Q.,  Zhu, D., Cai, H., Zhang, K., Jin., Z. *(submitted)* Mantle-derived mercury in natural gas.
+
+26) Dong, Y.<sup>+</sup>, **Wang, J.**<sup>#</sup>, Zhong, Y., Chen, A., Zheng, R., Zhu, P., Zhang, C., Han, Z., and Cui，Y. *(in revision)* The paleoenvironmental evolution of the Cambrian Miaoling Epoch in South China.
 
 25) Nsingi, J. M. , Cepin, E., Beaty, B., Planavsky, N., Wu, Q., Adloff, M., **Wang, J.**, Selby, D., Liu, Z., Dong, Y., Jiang, S., Zhu, F., and Cui, Y., *(submitted)* Changes in continental weathering across the Permian-Triassic transition: A global review.
 
