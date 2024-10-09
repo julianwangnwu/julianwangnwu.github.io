@@ -15,8 +15,6 @@ redirect_from:
          I am currently an assistant professor at Peking University. My research has been broadly in the areas of sedimentary geochemistry and geobiology, with particular focus on the coevolution of life and environment, climate and its feedbacks on seawater chemistry, as well as behaviors of selected isotope systems. I am also interested in emerging Carbon Dioxide Removal technologies and actively involve in many CDR projects.
 </p>
 
-<p style="font-family:'PT Serif', serif; font-size:19px;text-align:left">         
-         I recently finished the Agouron Geobiology Fellowship at Yale University with <a href="https://people.earth.yale.edu/profile/lidya-tarhan/about" style="color: #3BB9FF">Lidya Tarhan</a> and <a href="https://people.earth.yale.edu/profile/noah-planavsky/about" style="color: #3BB9FF">Noah Planavsky</a>. I received my Ph.D. from Northwestern University, co-advised by <a href="https://www.earth.northwestern.edu/our-people/faculty/sageman-brad.html" style="color: #3BB9FF">Brad Sageman</a>, <a href="https://www.earth.northwestern.edu/our-people/faculty/jacobson-andrew.html" style="color: #3BB9FF">Andy Jacobson</a>, and <a href="https://www.earth.northwestern.edu/our-people/faculty/hurtgen-matthew.html" style="color: #3BB9FF">Matt Hurtgen</a>. I hold a M.S. degree from Penn State University under <a href="https://www.ems.psu.edu/directory/michael-arthur" style="color: #3BB9FF">Mike Arthur</a>, and a B.E. degree from China University of Petroleum.
 </p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
     <b> Upcoming talks </b>

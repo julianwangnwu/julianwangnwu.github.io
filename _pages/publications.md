@@ -19,11 +19,11 @@ redirect_from:
 
 24) Kalderon-Asael, B., **Wang, J.**<sup>#</sup>, Planavsky, N. J., Reid, R. P., Vitek, B. E., Oehlert, A. M., Tarhan, L. G. *(in revision)* Evaluation of early diagenetic signatures of lithium and stable strontium isotopes in shallow marine carbonate sediments.
 
-23) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., *(in revision)* International collaboration in geoscience lags behind other subjects.
+23) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
 
-22) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
+22) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
 
-21) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
+21) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., *(accepted)* International collaboration in geoscience lags behind other subjects.
 
 <b>*---Peer Reviewed Articles---*</b>
 
