@@ -15,7 +15,6 @@ redirect_from:
          I am currently an assistant professor at Peking University. My research has been broadly in the areas of sedimentary geochemistry and geobiology, with particular focus on the coevolution of life and environment, climate and its feedbacks on seawater chemistry, as well as behaviors of selected isotope systems. I am also interested in emerging Carbon Dioxide Removal technologies and actively involve in many CDR projects.
 </p>
 
-</p>
 <p style="font-family:'PT Serif', serif; font-size:24px;text-align:left">
     <b> Upcoming talks </b>
     <br>
