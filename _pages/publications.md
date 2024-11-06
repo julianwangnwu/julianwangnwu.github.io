@@ -10,6 +10,7 @@ redirect_from:
 <sup>+</sup> indicates student author; <sup>#</sup> denotes corresponding author.
 
 <b>*---Research Publication Pipeline---*</b>
+
 28) Slagter S., **Wang, J.**, Syverson, D. D., Asael, D., Planavsky, N. J., Tarhan, L. G. *(submitted)* Silicon isotope exchange in silica biomineralizers.
 
 27) Liu, Q., Chen, J., **Wang, J.**, Sun R., Li, P., Wu, X., Xu, H., Huang, X., Meng Q.,  Zhu, D., Cai, H., Zhang, K., Jin., Z. *(submitted)* Mantle-derived mercury in natural gas.
@@ -25,6 +26,7 @@ redirect_from:
 22) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
 
 <b>*---Peer Reviewed Articles---*</b>
+
 21) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., 2024 International collaboration in geoscience lags behind other subjects. <a href="https://www.nature.com/articles/s41561-024-01566-3" style="color: #3BB9FF">Nature Geoscience</a>.
 
 20) Dong, Y.<sup>+</sup>, Gachetti, A., Wu, Q., De Palma, M., Hu, X., Brachfeld, S., Yang, Z., **Wang, J.**, Jiang, S., Cui, Y., 2024 Paleoenvironment reconstruction of the eastern Tethys during the pre-onset excursion prior to the PETM. <a href="https://doi.org/10.1016/j.palaeo.2024.112234" style="color: #3BB9FF">Palaeogeography, Palaeoclimatology, Palaeoecology</a>.
