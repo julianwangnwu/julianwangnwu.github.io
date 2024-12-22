@@ -15,15 +15,15 @@ redirect_from:
 
 27) Liu, Q., Chen, J., **Wang, J.**, Sun R., Li, P., Wu, X., Xu, H., Huang, X., Meng Q.,  Zhu, D., Cai, H., Zhang, K., Jin., Z. *(submitted)* Mantle-derived mercury in natural gas.
 
-26) Dong, Y.<sup>+</sup>, **Wang, J.**<sup>#</sup>, Zhong, Y., Chen, A., Zheng, R., Zhu, P., Zhang, C., Han, Z., and Cui，Y. *(in revision)* The paleoenvironmental evolution of the Cambrian Miaoling Epoch in South China.
+26) Nsingi, J. M. , Cepin, E., Beaty, B., Planavsky, N., Wu, Q., Adloff, M., **Wang, J.**, Selby, D., Liu, Z., Dong, Y., Jiang, S., Zhu, F., and Cui, Y., *(submitted)* Changes in continental weathering across the Permian-Triassic transition: A global review.
 
-25) Nsingi, J. M. , Cepin, E., Beaty, B., Planavsky, N., Wu, Q., Adloff, M., **Wang, J.**, Selby, D., Liu, Z., Dong, Y., Jiang, S., Zhu, F., and Cui, Y., *(submitted)* Changes in continental weathering across the Permian-Triassic transition: A global review.
+25) Dong, Y.<sup>+</sup>, **Wang, J.**<sup>#</sup>, Zhong, Y., Chen, A., Zheng, R., Zhu, P., Zhang, C., Han, Z., and Cui，Y. *(in revision)* The paleoenvironmental evolution of the Cambrian Miaoling Epoch in South China.
 
-24) Kalderon-Asael, B., **Wang, J.**<sup>#</sup>, Planavsky, N. J., Reid, R. P., Vitek, B. E., Oehlert, A. M., Tarhan, L. G. *(in revision)* Evaluation of early diagenetic signatures of lithium and stable strontium isotopes in shallow marine carbonate sediments.
+24) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
 
-23) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
+23) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
 
-22) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
+22) Kalderon-Asael, B., **Wang, J.**<sup>#</sup>, Planavsky, N. J., Reid, R. P., Vitek, B. E., Oehlert, A. M., Tarhan, L. G. *(accepted)* Evaluation of early diagenetic signatures of lithium and stable strontium isotopes in shallow marine carbonate sediments.
 
 <b>*---Peer Reviewed Articles---*</b>
 
