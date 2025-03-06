@@ -17,15 +17,15 @@ redirect_from:
 
 26) Nsingi, J. M. , Cepin, E., Beaty, B., Planavsky, N., Wu, Q., Adloff, M., **Wang, J.**, Selby, D., Liu, Z., Dong, Y., Jiang, S., Zhu, F., and Cui, Y., *(submitted)* Changes in continental weathering across the Permian-Triassic transition: A global review.
 
-25) Dong, Y.<sup>+</sup>, **Wang, J.**<sup>#</sup>, Zhong, Y., Chen, A., Zheng, R., Zhu, P., Zhang, C., Han, Z., and Cui，Y. *(in revision)* The paleoenvironmental evolution of the Cambrian Miaoling Epoch in South China.
+25) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
 
 24) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
 
-23) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
-
-22) Kalderon-Asael, B., **Wang, J.**<sup>#</sup>, Planavsky, N. J., Reid, R. P., Vitek, B. E., Oehlert, A. M., Tarhan, L. G. *(accepted)* Evaluation of early diagenetic signatures of lithium and stable strontium isotopes in shallow marine carbonate sediments.
-
 <b>*---Peer Reviewed Articles---*</b>
+
+23) Dong, Y.<sup>+</sup>, **Wang, J.**<sup>#</sup>, Zhong, Y., Chen, A., Zheng, R., Zhu, P., Zhang, C., Han, Z., and Cui，Y. 2025 The paleoenvironmental evolution of the Cambrian Miaoling Epoch in South China. <a href="https://doi.org/10.1016/j.palaeo.2024.112713" style="color: #3BB9FF">Palaeogeography, Palaeoclimatology, Palaeoecology</a>.
+
+22) Kalderon-Asael, B., **Wang, J.**<sup>#</sup>, Planavsky, N. J., Reid, R. P., Vitek, B. E., Oehlert, A. M., Tarhan, L. G. 2025 Evaluation of early diagenetic signatures of lithium and stable strontium isotopes in shallow marine carbonate sediments. <a href="https://doi.org/10.1016/j.chemgeo.2024.122590" style="color: #3BB9FF">Chemical Geology</a>.
 
 21) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., 2024 International collaboration in geoscience lags behind other subjects. <a href="https://www.nature.com/articles/s41561-024-01566-3" style="color: #3BB9FF">Nature Geoscience</a>.
 
