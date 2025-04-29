@@ -11,17 +11,21 @@ redirect_from:
 
 <b>*---Research Publication Pipeline---*</b>
 
-28) Slagter S., **Wang, J.**, Syverson, D. D., Asael, D., Planavsky, N. J., Tarhan, L. G. *(submitted)* Silicon isotope exchange in silica biomineralizers.
+30) Lu, C.,, **Wang, J.**, Jacobson, A.D., Hurtgen, M.T., Liu, Q., Zou, H., Hao, F., Swart, P.K. *(submitted)* Clumped isotopes reveal fluid chemistry and hydrodynamics during Marinoan cap dolostone formation
+
+29) Lu, F., Dong, Y.<sup>#</sup>, He, J., Chen, A., Chen, J., Xiao, D., Tao, L., Zhang, C., Tan, X., Zheng, J., and **Wang, J.**<sup>#</sup>, *(submitted)* Fault-Controlled Thermal Convection Dolomitization and Fluid Evolution Triggered by Emeishan Large Igneous Province.
+
+28) Slagter S., **Wang, J.**, Syverson, D. D., Asael, D., Planavsky, N. J., Tarhan, L. G. *(in revision)* Silicon isotope exchange in silica biomineralizers.
 
 27) Liu, Q., Chen, J., **Wang, J.**, Sun R., Li, P., Wu, X., Xu, H., Huang, X., Meng Q.,  Zhu, D., Cai, H., Zhang, K., Jin., Z. *(submitted)* Mantle-derived mercury in natural gas.
 
 26) Nsingi, J. M. , Cepin, E., Beaty, B., Planavsky, N., Wu, Q., Adloff, M., **Wang, J.**, Selby, D., Liu, Z., Dong, Y., Jiang, S., Zhu, F., and Cui, Y., *(submitted)* Changes in continental weathering across the Permian-Triassic transition: A global review.
 
-25) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(in review)* Wind-blown lithium deposits in the Western Canada Sedimentary Basin.
-
-24) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(in revision)* Increased climate instability prior to and during the PETM.
-
 <b>*---Peer Reviewed Articles---*</b>
+
+25) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(accepted)* Characterizing the potential of wind-blown lithium sediments: A case study from Devonian evaporites of the Western Canada Sedimentary Basin. GSA Bulletin.
+
+24) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(accepted)* Increased climate instability prior to and during the PETM. Nature Communications.
 
 23) Dong, Y.<sup>+</sup>, **Wang, J.**<sup>#</sup>, Zhong, Y., Chen, A., Zheng, R., Zhu, P., Zhang, C., Han, Z., and Cui，Y. 2025 The paleoenvironmental evolution of the Cambrian Miaoling Epoch in South China. <a href="https://doi.org/10.1016/j.palaeo.2024.112713" style="color: #3BB9FF">Palaeogeography, Palaeoclimatology, Palaeoecology</a>.
 
