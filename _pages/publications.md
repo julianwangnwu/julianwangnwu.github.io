@@ -19,9 +19,10 @@ redirect_from:
 
 
 <b>*---Peer Reviewed Articles---*</b>
+
 29) Liu, Q., Xu, H., **Wang, J.**, Sun R., Li, P., Wu, X., Xu, H., Huang, X., Meng Q.,  Zhu, D., Cai, H., Zhang, K., Jin., Z. *(accepted)*. Abyssal hydrothermal alteration drives the evolution from simple alkanes to prebiotic molecular complexity. <a>Nature Communications</a>.
 
-28) Lu, F., Shi, K.<sup>#</sup>, He, J., Chen, A., Chen, J., Xiao, D., Tao, L., Zhang, C., Tan, X., Zheng, J., Dong, Y.<sup>#</sup> and **Wang, J.**, 2025. Seawater-convective dolomitization linked to the passive–active continental margin transition during the Ordovician in the western Ordos Basin, North China. <a href="https://doi.org/10.1016/j.palaeo.2025.113385" style="color: #3BB9FF">Palaeogeography, Palaeoclimatology, Palaeoecology</a>.
+28) Lu, F., Shi, K., He, J., Chen, A., Chen, J., Xiao, D., Tao, L., Zhang, C., Tan, X., Zheng, J., Dong, Y. and **Wang, J.**, 2025. Seawater-convective dolomitization linked to the passive–active continental margin transition during the Ordovician in the western Ordos Basin, North China. <a href="https://doi.org/10.1016/j.palaeo.2025.113385" style="color: #3BB9FF">Palaeogeography, Palaeoclimatology, Palaeoecology</a>.
 
 27) Slagter S., **Wang, J.**, Syverson, D. D., Asael, D., Planavsky, N. J., Tarhan, L. G., 2025. Silicon isotope exchange in silica biomineralizers. <a href="https://doi.org/10.1016/j.gca.2025.08.002" style="color: #3BB9FF">Geochimica et Cosmochimica Acta</a>
 
