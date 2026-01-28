@@ -11,25 +11,29 @@ redirect_from:
 
 <b>*---Research Publication Pipeline---*</b>
 
-30) Lu, C.,, **Wang, J.**, Jacobson, A.D., Hurtgen, M.T., Liu, Q., Zou, H., Hao, F., Swart, P.K. *(submitted)* Clumped isotopes reveal fluid chemistry and hydrodynamics during Marinoan cap dolostone formation
+32) Lu, F., Shi, K., He, J., Chen, A., Chen, J., Xiao, D., Tao, L., Zhang, C., Tan, X., Zheng, J., Dong, Y. and **Wang, J.**<sup>#</sup>, Fault-Controlled Thermal Convection Dolomitization and Fluid Evolution Triggered by Emeishan Large Igneous Province.
 
-29) Lu, F., Dong, Y.<sup>#</sup>, He, J., Chen, A., Chen, J., Xiao, D., Tao, L., Zhang, C., Tan, X., Zheng, J., and **Wang, J.**<sup>#</sup>, *(submitted)* Fault-Controlled Thermal Convection Dolomitization and Fluid Evolution Triggered by Emeishan Large Igneous Province.
+31) Lu, C.,, **Wang, J.**, Jacobson, A.D., Hurtgen, M.T., Liu, Q., Zou, H., Hao, F., Swart, P.K. *(submitted)* Clumped isotopes reveal fluid chemistry and hydrodynamics during Marinoan cap dolostone formation
 
-28) Slagter S., **Wang, J.**, Syverson, D. D., Asael, D., Planavsky, N. J., Tarhan, L. G. *(in revision)* Silicon isotope exchange in silica biomineralizers.
+30) Liu, Q., Chen, J., **Wang, J.**, Sun R., Li, P., Wu, X., Xu, H., Huang, X., Meng Q.,  Zhu, D., Cai, H., Zhang, K., Jin., Z. *(submitted)* Mantle-derived mercury in natural gas.
 
-27) Liu, Q., Chen, J., **Wang, J.**, Sun R., Li, P., Wu, X., Xu, H., Huang, X., Meng Q.,  Zhu, D., Cai, H., Zhang, K., Jin., Z. *(submitted)* Mantle-derived mercury in natural gas.
-
-26) Nsingi, J. M. , Cepin, E., Beaty, B., Planavsky, N., Wu, Q., Adloff, M., **Wang, J.**, Selby, D., Liu, Z., Dong, Y., Jiang, S., Zhu, F., and Cui, Y., *(submitted)* Changes in continental weathering across the Permian-Triassic transition: A global review.
 
 <b>*---Peer Reviewed Articles---*</b>
+29) Liu, Q., Xu, H., **Wang, J.**, Sun R., Li, P., Wu, X., Xu, H., Huang, X., Meng Q.,  Zhu, D., Cai, H., Zhang, K., Jin., Z. *(accepted)*. Abyssal hydrothermal alteration drives the evolution from simple alkanes to prebiotic molecular complexity. <a>Nature Communications</a>.
 
-25) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D., K. Konhauser, and Murray Gingras, *(accepted)* Characterizing the potential of wind-blown lithium sediments: A case study from Devonian evaporites of the Western Canada Sedimentary Basin. GSA Bulletin.
+28) Lu, F., Shi, K.<sup>#</sup>, He, J., Chen, A., Chen, J., Xiao, D., Tao, L., Zhang, C., Tan, X., Zheng, J., Dong, Y.<sup>#</sup> and **Wang, J.**, 2025. Seawater-convective dolomitization linked to the passive–active continental margin transition during the Ordovician in the western Ordos Basin, North China. <a href="https://doi.org/10.1016/j.palaeo.2025.113385" style="color: #3BB9FF">Palaeogeography, Palaeoclimatology, Palaeoecology</a>.
 
-24) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., *(accepted)* Increased climate instability prior to and during the PETM. Nature Communications.
+27) Slagter S., **Wang, J.**, Syverson, D. D., Asael, D., Planavsky, N. J., Tarhan, L. G., 2025. Silicon isotope exchange in silica biomineralizers. <a href="https://doi.org/10.1016/j.gca.2025.08.002" style="color: #3BB9FF">Geochimica et Cosmochimica Acta</a>
 
-23) Dong, Y.<sup>+</sup>, **Wang, J.**<sup>#</sup>, Zhong, Y., Chen, A., Zheng, R., Zhu, P., Zhang, C., Han, Z., and Cui，Y. 2025 The paleoenvironmental evolution of the Cambrian Miaoling Epoch in South China. <a href="https://doi.org/10.1016/j.palaeo.2024.112713" style="color: #3BB9FF">Palaeogeography, Palaeoclimatology, Palaeoecology</a>.
+26) Nsingi, J. M. , Cepin, E., Beaty, B., Planavsky, N., Wu, Q., Adloff, M., **Wang, J.**, Selby, D., Liu, Z., Dong, Y., Jiang, S., Zhu, F., and Cui, Y., 2025 Changes in continental weathering across the Permian-Triassic transition: A global review. <a href="https://doi.org/10.1016/j.gloplacha.2025.105015" style="color: #3BB9FF">Global and Planetary Change</a>.
 
-22) Kalderon-Asael, B., **Wang, J.**<sup>#</sup>, Planavsky, N. J., Reid, R. P., Vitek, B. E., Oehlert, A. M., Tarhan, L. G. 2025 Evaluation of early diagenetic signatures of lithium and stable strontium isotopes in shallow marine carbonate sediments. <a href="https://doi.org/10.1016/j.chemgeo.2024.122590" style="color: #3BB9FF">Chemical Geology</a>.
+25) Lazowski, C., Melnyk, S., Rueda, D., **Wang J.**, Tarhan L., Hauck T.,  Alessi, D.,  Konhauser, K., and Gingras, M., 2025. Characterizing the potential of wind-blown lithium sediments: A case study from Devonian evaporites of the Western Canada Sedimentary Basin. <a href="https://doi.org/10.1130/B38104.1" style="color: #3BB9FF">GSA Bulletin</a>. 
+
+24) Jiang, S., Cui, Y., Wang, Y., De Palma, M., Naafs, D., Jiang, J., Hu, X., Wu, H., Chu, R., Gu, Y., **Wang, J.**, Huang, Y., Ingalls, M., Bralower, T., Zachos, J., 2025. Increased climate instability prior to and during the PETM. <a href="https://doi.org/10.1038/s41467-025-60939-3" style="color: #3BB9FF"> Nature Communications</a>.
+
+23) Dong, Y.<sup>+</sup>, **Wang, J.**<sup>#</sup>, Zhong, Y., Chen, A., Zheng, R., Zhu, P., Zhang, C., Han, Z., and Cui，Y., 2025. The paleoenvironmental evolution of the Cambrian Miaoling Epoch in South China. <a href="https://doi.org/10.1016/j.palaeo.2024.112713" style="color: #3BB9FF">Palaeogeography, Palaeoclimatology, Palaeoecology</a>.
+
+22) Kalderon-Asael, B., **Wang, J.**<sup>#</sup>, Planavsky, N. J., Reid, R. P., Vitek, B. E., Oehlert, A. M., Tarhan, L. G., 2025. Evaluation of early diagenetic signatures of lithium and stable strontium isotopes in shallow marine carbonate sediments. <a href="https://doi.org/10.1016/j.chemgeo.2024.122590" style="color: #3BB9FF">Chemical Geology</a>.
 
 21) Shan, Y., **Wang, J.**<sup>#</sup>, Liu, Q., Tarhan, L., 2024 International collaboration in geoscience lags behind other subjects. <a href="https://www.nature.com/articles/s41561-024-01566-3" style="color: #3BB9FF">Nature Geoscience</a>.
 
